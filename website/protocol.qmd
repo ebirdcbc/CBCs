@@ -51,7 +51,7 @@ eBirdCBC uses eBird and eBird tracks to record all bird and participant data, au
 
 \- Include the following in effort notes:
 
- - Team names, participants, list numbers, start/stop times and locations, weather, and raptor/rare bird sightings.
+-   Team names, participants, list numbers, start/stop times and locations, weather, and raptor/rare bird sightings.
 
 \- Track total party miles (one-way distance) and total party hours (nearest minute).
 
