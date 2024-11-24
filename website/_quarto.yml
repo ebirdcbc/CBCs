@@ -5,7 +5,7 @@ project:
 navbar:
   title: "eBirdCBC"
   left:
-    - text: "Home"
+    - text: "Home!"
       href: index.html
     - text: "About"
       href: about.html
