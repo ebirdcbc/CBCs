@@ -6,17 +6,17 @@ format:
         anchor-sections: false
 
 ---
-\# About eBirdCBC
+# About eBirdCBC
 
 eBirdCBC is a collaborative project that leverages eBird data and advanced algorithms to enhance the compilation of area lists for Christmas Bird Counts (CBCs). The project combines the expertise of Durrell Kapan and Mark Schulist, with the support of many dedicated individuals conducting eBird-powered CBCs. Examples include the Abbotts Lagoon subarea (#23) of the Point Reyes CBC and the Tennessee Valley subarea of the Southern Marin CBC.
 
-\## Background
+## Background
 
 The Christmas Bird Count (CBC) is a long-standing community science project that has been instrumental in bird conservation efforts. To encourage greater participation, it’s beneficial to bridge the traditional, primarily analog methods of the CBC with modern, digitally enabled practices like eBirding. This integration can make the CBC more accessible and engaging, attracting a broader audience and enhancing data collection.
 
 For more information on the CBC and to find a count near you, visit the Audubon Christmas Bird Count page. To explore eBirding and how it complements the CBC, check out eBird’s official website.Purpose
 
-\## \*\*Mission\*\*
+## \*\*Mission\*\*
 
 The primary mission of eBirdCBC is to:
 
@@ -30,7 +30,7 @@ The primary mission of eBirdCBC is to:
 
 \- Foster collaboration and innovation in bird monitoring efforts.
 
-\## Meet the Team
+## Meet the Team
 
 \- Dr. Durrell D. Kapan: Senior Research Fellow, California Academy of Sciences. Concept, analog 'model iterations', MAX-SUM algorithm, area leader on two CBC counts.
 
@@ -40,7 +40,7 @@ The primary mission of eBirdCBC is to:
 
 We extend our gratitude to the birding community for their dedication and contributions to the CBC tradition. Your participation in CBCs helps continue the 123-year legacy (since 1900) of advancing a deeper understanding of bird populations and their conservation.&#x20;
 
-\## Contact
+## Contact
 
 For inquiries, please reach out to us at \[ebirdcbc\@gmail.com\](mailto\\:ebirdcbc\@gmail.com)
 

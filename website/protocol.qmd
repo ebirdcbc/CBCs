@@ -1,8 +1,10 @@
 ---
 title: "protocol"
 author: "Durrell D. Kapan"
-format: html
-editor: visual
+format: 
+    html:
+        css: index.css
+        anchor-sections: false
 ---
 
 ## Title: "eBirdCBC Protocol"
@@ -73,13 +75,11 @@ Raptors and large flying birds are crucial to track for accurate counts and move
 
 ## Example Table for Raptors and Large Birds
 
-\| Species \| Location \| Time \| Flight Direction \| Age \| Sex \| Plumage \| Notes \|
-
-\| ---------------- \| ------------------ \| ---- \| ---------------- \| ----- \| ---- \| ------- \| --------------------------------- \|
-
-\| Golden Eagle \| M-ranch entry road \| 0915 \| NE \| Adult \| NA \| NA \| Flying high and fast. \|
-
-\| Northern Harrier \| M-ranch entry road \| 0920 \| N \| Adult \| Male \| NA \| Flying low into Yellow territory. \|
+|                  |                    |      |                  |       |      |         |                                               |
+|------------------|--------------------|------|------------------|-------|------|---------|-----------------------------------------------|
+| Species          | Location           | Time | Flight direction | Age   | Sex  | Plumage | Notes                                         |
+| Golden Eagle     | M-ranch entry road | 0915 | NE               | Adult | NA   | NA      | This bird was flying high and fast.           |
+| Northern Harrier | M-ranch entry road | 0920 | N                | Adult | Male | NA      | Harrying low flying into the Yellow territory |
 
 # Reminders
 

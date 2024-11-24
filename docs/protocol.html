@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -62,6 +61,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="index.css">
 </head>
 
 <body>
@@ -117,7 +117,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <section id="title-ebirdcbc-protocol" class="level2">
-<h2 class="anchored" data-anchor-id="title-ebirdcbc-protocol">Title: “eBirdCBC Protocol”</h2>
+<h2 data-anchor-id="title-ebirdcbc-protocol">Title: “eBirdCBC Protocol”</h2>
 </section>
 <section id="overview" class="level1">
 <h1>Overview</h1>
@@ -163,11 +163,51 @@ ul.task-list li input[type="checkbox"] {
 <p>- Add this information to species comments in eBird after the count.</p>
 <p>- These data help prevent double-counting across subareas and are required for compilation.</p>
 <section id="example-table-for-raptors-and-large-birds" class="level2">
-<h2 class="anchored" data-anchor-id="example-table-for-raptors-and-large-birds">Example Table for Raptors and Large Birds</h2>
-<p>| Species | Location | Time | Flight Direction | Age | Sex | Plumage | Notes |</p>
-<p>| —————- | —————— | —- | —————- | —– | —- | ——- | ——————————— |</p>
-<p>| Golden Eagle | M-ranch entry road | 0915 | NE | Adult | NA | NA | Flying high and fast. |</p>
-<p>| Northern Harrier | M-ranch entry road | 0920 | N | Adult | Male | NA | Flying low into Yellow territory. |</p>
+<h2 data-anchor-id="example-table-for-raptors-and-large-birds">Example Table for Raptors and Large Birds</h2>
+<table class="table">
+<colgroup>
+<col style="width: 13%">
+<col style="width: 15%">
+<col style="width: 4%">
+<col style="width: 13%">
+<col style="width: 5%">
+<col style="width: 4%">
+<col style="width: 6%">
+<col style="width: 35%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Species</td>
+<td>Location</td>
+<td>Time</td>
+<td>Flight direction</td>
+<td>Age</td>
+<td>Sex</td>
+<td>Plumage</td>
+<td>Notes</td>
+</tr>
+<tr class="even">
+<td>Golden Eagle</td>
+<td>M-ranch entry road</td>
+<td>0915</td>
+<td>NE</td>
+<td>Adult</td>
+<td>NA</td>
+<td>NA</td>
+<td>This bird was flying high and fast.</td>
+</tr>
+<tr class="odd">
+<td>Northern Harrier</td>
+<td>M-ranch entry road</td>
+<td>0920</td>
+<td>N</td>
+<td>Adult</td>
+<td>Male</td>
+<td>NA</td>
+<td>Harrying low flying into the Yellow territory</td>
+</tr>
+</tbody>
+</table>
 </section>
 </section>
 <section id="reminders" class="level1">
@@ -207,13 +247,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
