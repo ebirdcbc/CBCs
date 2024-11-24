@@ -1,13 +1,10 @@
 ---
-title: "eBirdCBC"
+title: "About eBirdCBC"
 format: 
     html:
         css: index.css
         anchor-sections: false
-
 ---
-# About eBirdCBC
-
 eBirdCBC is a collaborative project that leverages eBird data and advanced algorithms to enhance the compilation of area lists for Christmas Bird Counts (CBCs). The project combines the expertise of Durrell Kapan and Mark Schulist, with the support of many dedicated individuals conducting eBird-powered CBCs. Examples include the Abbotts Lagoon subarea (#23) of the Point Reyes CBC and the Tennessee Valley subarea of the Southern Marin CBC.
 
 ## Background
@@ -16,33 +13,33 @@ The Christmas Bird Count (CBC) is a long-standing community science project that
 
 For more information on the CBC and to find a count near you, visit the Audubon Christmas Bird Count page. To explore eBirding and how it complements the CBC, check out eBird’s official website.Purpose
 
-## \*\*Mission\*\*
+## Mission
 
 The primary mission of eBirdCBC is to:
 
-\- Encourage more people to join Christmas Bird Counts (CBCs) by bridging the gap between eBirders, immersed in digitally enabled birding, and the Christmas Bird Count community, who primarily use analog methods in this long-standing community science project.  
+-   Encourage more people to join Christmas Bird Counts (CBCs) by bridging the gap between eBirders, immersed in digitally enabled birding, and the Christmas Bird Count community, who primarily use analog methods in this long-standing community science project.
 
-\- Providing tools to efficiently integrate multiple eBird checklists into the CBC area and count-circle compilation workflows.
+-   Providing tools to efficiently integrate multiple eBird checklists into the CBC area and count-circle compilation workflows.
 
-\- Make it easy to employ the “Max-Sum”™ algorithm to differentiate overlapping and independent checklists for accurate species lists.
+-   Make it easy to employ the “Max-Sum”™ algorithm to differentiate overlapping and independent checklists for accurate species lists.
 
-\- Document existing CBC community and count-circle count-area knowledge on a persistent platform (eBird).
+-   Document existing CBC community and count-circle count-area knowledge on a persistent platform (eBird).
 
-\- Foster collaboration and innovation in bird monitoring efforts.
+-   Foster collaboration and innovation in bird monitoring efforts.
 
 ## Meet the Team
 
-\- Dr. Durrell D. Kapan: Senior Research Fellow, California Academy of Sciences. Concept, analog 'model iterations', MAX-SUM algorithm, area leader on two CBC counts.
+-   Dr. Durrell D. Kapan: Senior Research Fellow, California Academy of Sciences. Concept, analog 'model iterations', MAX-SUM algorithm, protocol iteration as area leader on two CBC counts.
 
-\- Mark Schulist: eBirdCBC primary developer, programming, website design, and protocol iteration with extensive participation in CBC activities.
+-   Mark Schulist: eBirdCBC primary developer, programming, website design, and protocol iteration with extensive participation in CBC activities.
 
-\- This project also relies on the efforts of countless volunteers on CBCs who put up with being test subjects as well as all bird enthusiasts who contribute to the success of CBCs across the region.
+-   This project also relies on the efforts of countless volunteers on CBCs who put up with being test subjects as well as all bird enthusiasts who contribute to the success of CBCs across the region.
 
-We extend our gratitude to the birding community for their dedication and contributions to the CBC tradition. Your participation in CBCs helps continue the 123-year legacy (since 1900) of advancing a deeper understanding of bird populations and their conservation.&#x20;
+We extend our gratitude to the birding community for their dedication and contributions to the CBC tradition. Your participation in CBCs helps continue the 123-year legacy (since 1900) of advancing a deeper understanding of bird populations and their conservation.
 
 ## Contact
 
-For inquiries, please reach out to us at \[ebirdcbc\@gmail.com\](mailto\\:ebirdcbc\@gmail.com)
+For inquiries, please reach out to us at [ebirdcbc\@gmail.com](mailto:ebirdcbc@gmail.com)
 
 <!-- ::: columns -->
 
