@@ -1,5 +1,9 @@
 name: "home"
+<<<<<<< HEAD
 output_dir: "../docs"  # This will place the generated website in `/docs`.
+=======
+output_dir: "../website"  # This will place the generated website in `/website`.
+>>>>>>> d1ffd36e57a6c8652c0ca9ee7e81b5abc094ba08
 navbar:
   title: "eBirdCBC"
   left:
