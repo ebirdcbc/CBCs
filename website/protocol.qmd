@@ -40,7 +40,7 @@ eBirdCBC uses eBird and eBird tracks to record all bird and participant data, au
 
 -   Record birds seen between polygons in the species comments with relevant details.
 
-## Manual methods (effort, raptors, or all birds)
+# Manual methods (effort, raptors, or all birds)
 
 -   Assign a team member to log effort, raptors, and rare bird notes on paper for transcription into the appropriate eBird field (like time/distance) and/or the eBird memo.
 
