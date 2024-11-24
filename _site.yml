@@ -3,7 +3,7 @@ output_dir: "../docs"
 navbar:
   title: "eBirdCBC"
   left:
-    - text: "Home"
-      href: index.html
+    - text: "eBirdCBC"
+      href: eBirdCBC.html
     - text: "About"
       href: about.html
