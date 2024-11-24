@@ -1,25 +1,11 @@
 ---
-title: "home"
+title: "eBirdCBC"
 format: 
     html:
         css: index.css
         anchor-sections: false
+
 ---
-
-## ---
-
-Title: "eBirdCBC"
-
-Format:
-
-html:
-
-css: index.css
-
-anchor-sections: false
-
-----------------------
-
 \# About eBirdCBC
 
 eBirdCBC is a collaborative project that leverages eBird data and advanced algorithms to enhance the compilation of area lists for Christmas Bird Counts (CBCs). The project combines the expertise of Durrell Kapan and Mark Schulist, with the support of many dedicated individuals conducting eBird-powered CBCs. Examples include the Abbotts Lagoon subarea (#23) of the Point Reyes CBC and the Tennessee Valley subarea of the Southern Marin CBC.
