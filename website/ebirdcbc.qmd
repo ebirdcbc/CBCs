@@ -20,29 +20,29 @@ For more information on the CBC and to find a count near you, visit the Audubon 
 
 The primary mission of eBirdCBC is to:
 
-\- Encourage more people to join Christmas Bird Counts (CBCs) by bridging the gap between eBirders, immersed in digitally enabled birding, and the Christmas Bird Count community, who primarily use analog methods in this long-standing community science project.  
+- Encourage more people to join Christmas Bird Counts (CBCs) by bridging the gap between eBirders, immersed in digitally enabled birding, and the Christmas Bird Count community, who primarily use analog methods in this long-standing community science project.  
 
-\- Providing tools to efficiently integrate multiple eBird checklists into the CBC area and count-circle compilation workflows.
+- Providing tools to efficiently integrate multiple eBird checklists into the CBC area and count-circle compilation workflows.
 
-\- Make it easy to employ the “Max-Sum”™ algorithm to differentiate overlapping and independent checklists for accurate species lists.
+- Make it easy to employ the “Max-Sum”™ algorithm to differentiate overlapping and independent checklists for accurate species lists.
 
-\- Document existing CBC community and count-circle count-area knowledge on a persistent platform (eBird).
+- Document existing CBC community and count-circle count-area knowledge on a persistent platform (eBird).
 
-\- Foster collaboration and innovation in bird monitoring efforts.
+- Foster collaboration and innovation in bird monitoring efforts.
 
 ## Meet the Team
 
-\- Dr. Durrell D. Kapan: Senior Research Fellow, California Academy of Sciences. Concept, analog 'model iterations', MAX-SUM algorithm, area leader on two CBC counts.
+- Dr. Durrell D. Kapan: Senior Research Fellow, California Academy of Sciences. Concept, analog 'model iterations', MAX-SUM algorithm, area leader on two CBC counts.
 
-\- Mark Schulist: eBirdCBC primary developer, programming, website design, and protocol iteration with extensive participation in CBC activities.
+- Mark Schulist: eBirdCBC primary developer, programming, website design, and protocol iteration with extensive participation in CBC activities.
 
-\- This project also relies on the efforts of countless volunteers on CBCs who put up with being test subjects as well as all bird enthusiasts who contribute to the success of CBCs across the region.
+- This project also relies on the efforts of countless volunteers on CBCs who put up with being test subjects as well as all bird enthusiasts who contribute to the success of CBCs across the region.
 
 We extend our gratitude to the birding community for their dedication and contributions to the CBC tradition. Your participation in CBCs helps continue the 123-year legacy (since 1900) of advancing a deeper understanding of bird populations and their conservation.&#x20;
 
 ## Contact
 
-For inquiries, please reach out to us at \[ebirdcbc\@gmail.com\](mailto\\:ebirdcbc\@gmail.com)
+For inquiries, please reach out to us at [ebirdcbc@gmail.com](mailto:ebirdcbc@gmail.com)
 
 <!-- ::: columns -->
 
