@@ -1,0 +1,11 @@
+name: "home"
+output_dir: "../docs"  # This will place the generated website in `/docs`.
+navbar:
+  title: "eBirdCBC"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Usage"
+      href: usage.html
