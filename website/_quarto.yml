@@ -7,8 +7,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Protocol"
+      href: protocol.qmd
+    - text: "Abbotts Lagoon"
+      href: abbottslagoon.qmd
 
 format:
   html:

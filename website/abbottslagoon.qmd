@@ -1,0 +1,38 @@
+---
+title: "Abbotts Lagoon"
+author: "Durrell D. Kapan"
+format: 
+    html:
+        css: index.css
+        anchor-sections: false
+---
+
+## eBird Checklists for Unique Polygons
+
+We have divided Abbotts Lagoon subarea #23 into different routes with the approximate extent that birds can be seen from anywhere on that route defining a 'birdshed' or color-coded polygon. We use the colors to refer to the routes, polygons *and the team that covers them*.
+
+### Color-coded routes and polygons:
+
+The Abbotts Lagoon CBC area number 23 map is divided into multiple non-overlapping color-coded polygons with a track that each team follows to count birds ([Blue]{style="background-color: rgba(0, 0, 255, 0.2); padding: 2px; border-radius: 4px;"}, [Red]{style="background-color: rgba(255, 0, 0, 0.2); padding: 2px; border-radius: 4px;"}, [Yellow]{style="background-color: rgba(255, 255, 0, 0.2); padding: 2px; border-radius: 4px;"}, [Orange]{style="background-color: rgba(255, 165, 0, 0.2); padding: 2px; border-radius: 4px;"}). The main lagoon itself is divided into N and S regions as well as the standard seawatch from the N. berm and various dune and beach wanderings.
+
+![Abbotts Lagoon CBC area number 23 count territories including Blue, Red, Yellow, and Orange Summary of tracks and polygons from 2019 and 2021 (QGIS map by M. Schulist & D. Kapan).](images/abbottslagoon.jpg){fig-alt="Abbotts Lagoon Team areas"}
+
+Abbotts Lagoon CBC area number 23 count territories including [Blue]{style="background-color: rgba(0, 0, 255, 0.2); padding: 2px; border-radius: 4px;"}, [Red]{style="background-color: rgba(255, 0, 0, 0.2); padding: 2px; border-radius: 4px;"}, [Yellow]{style="background-color: rgba(255, 255, 0, 0.2); padding: 2px; border-radius: 4px;"}, and [Orange]{style="background-color: rgba(255, 165, 0, 0.2); padding: 2px; border-radius: 4px;"} Summary of tracks and polygons from 2019 and 2021 (QGIS map by M. Schulist & D. Kapan).
+
+### Directions for Abbotts Lagoon subarea #23:
+
+Teams first complete the following assigned **routes through unique polygons** and then take **replicate eBird data** when moving across other teams’ assigned territories/polygons; this allows us to compare different lists for the same area and take the high counts for stationary birds.
+
+-   The Abbotts Lagoon CBC area number 23 map is divided into multiple non-overlapping color-coded polygons with a track that each team follows to count birds ([Blue]{style="background-color: rgba(0, 0, 255, 0.2); padding: 2px; border-radius: 4px;"}, [Red]{style="background-color: rgba(255, 0, 0, 0.2); padding: 2px; border-radius: 4px;"}, [Yellow]{style="background-color: rgba(255, 255, 0, 0.2); padding: 2px; border-radius: 4px;"}, [Orange]{style="background-color: rgba(255, 165, 0, 0.2); padding: 2px; border-radius: 4px;"}, etc.).
+
+-   Abbotts Lagoon is divided into two polygons (the N side - Blue Team, S. Side - Red team). We often meet on the W. Shore (middle area–log those birds in the N-side polygon area). We need to keep separate track of birds in these two areas so we can combine the two lists (and compare replicate lists) to sum the total number of birds on the lagoon.
+
+-   For birds that are not moving, we can assign them to a specific polygon and add (SUM) separate polygons together.
+
+-   For birds noted on lists from different parties that cover the same route (e.g. [Red]{style="background-color: rgba(255, 0, 0, 0.2); padding: 2px; border-radius: 4px;"}) that overlap with other [Red]{style="background-color: rgba(255, 0, 0, 0.2); padding: 2px; border-radius: 4px;"} team lists, we will utilize the high count (MAX) from the relevant overlapping lists.
+
+-   For birds that are moving around (some large water birds/ducks/shorebirds), we will utilize the high count (MAX) from different lists potentially on the same or different subareas.
+
+-   Make sure to put whether the birds are moving around or are stationary in the comments for the species.
+
+\
