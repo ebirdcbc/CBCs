@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: ../docs
+
+navbar:
+  title: "eBirdCBC"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Protocol"
+      href: protocol.qmd
+    - text: "Abbotts Lagoon"
+      href: abbottslagoon.qmd
+
+format:
+  html:
+    theme: darkly
+    fontsize: 1.3em
+    css: styles.css
+    toc: true
+    page-layout: full
+    grid: 
+      body-width: 1500px
+      gutter-width: 4em
