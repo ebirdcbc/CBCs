@@ -14,7 +14,7 @@ navbar:
 
 format:
   html:
-    theme: darkly
+    theme: flatly
     fontsize: 1.3em
     css: styles.css
     toc: true

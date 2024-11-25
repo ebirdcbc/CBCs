@@ -1,6 +1,5 @@
 ---
 title: "Tennessee Valley"
-author: "Durrell D. Kapan"
 format: 
     html:
         css: index.css
@@ -9,7 +8,7 @@ format:
 
 ## Tennessee Valley subarea: Christmas Bird Count Details
 
-The Tennessee Valley subarea is part of the Southern Marin Christmas Bird Count (CBC). This area features diverse habitats, from coastal trails to lower valley ponds, making it an ideal location for bird observation. Below are specific assignments and considerations for teams covering this area.
+The Tennessee Valley subarea is part of the Southern Marin Christmas Bird Count circle (CBC). This area features diverse habitats, from oak woodlands to coastal scrub, grasslands, riparian creeks, marshes, ponds, beach and nearshore waters making it an ideal location for bird observation. Below are specific assignments and considerations for teams covering this area.
 
 ### Overview
 
@@ -23,29 +22,25 @@ The Tennessee Valley subarea is part of the Southern Marin Christmas Bird Count 
 
 1.  **Marincello to Alta Trail Returning Via Oakwood and Rhubarb (Loop)**:
 
-    -   Route: From the end of Marincello Trail, proceed to Oakwood Valley and return via Rhubarb Trail (or the reverse).
-
-    -   Team Lead: Kevin Stockman & Sharon Barnett.
+    -   Route: From Oakwood Valley **#9** to Alta Trail (pink, not numbered) to Marincello Trail **#2**, and return via Rhubarb Trail **#15**.
 
 2.  **Miwok Livery Stables and Old Springs Trail**:
 
-    -   Route: Miwok to Coastal Trail to Hill 88, dropping into Tennessee Valley in the lower area.
+    -   Route: Miwok Livery **#3** to Oldsprings Trail **#4,** to Miwok trail **#6,** Coastal Trail **#7** to Hill 88 **#8**, dropping into Tennessee Valley in the lower area **#12**.
 
-    -   Team Lead: Mark Schulist with JP.
-
-3.  **Lower Tennessee Valley Trails**:
+3.  **Tennessee Valley**:
 
     -   Teams split into two:
 
-        -   **Haypress Team:** Covers trails through the north side of the valley.
+        -   **Haypress Team:** Covers trails through the north half of the valley (**#1**, **#5**, **#10**, **#11**-nursery, **#12**).
 
-        -   **Nursery Team:** Focuses on trails through the south side of the valley.
+        -   **Lower Team:** Moves super early to focuses on trails through the south half of the valley (**#16**, **#17**, **#13**, and a seawatch from the Tennessee Valley Overlook **#18**).
 
 4.  **Ponds and Tennessee Beach**:
 
-    -   Both teams document observations at Lower Pond (separate lists unless teams reunite).
+    -   Both teams document observations at Lower Tennessee Valley (including the Pond) **#17** (separate lists until teams reunite).
 
-    -   Tennessee Beach is surveyed from the shore, with an optional climb to the seawatch point above the beach for additional coverage.
+    -   Tennessee Beach is surveyed from the shore, with the early team climbing to the Tennessee Valley Overlook **#18 for** a seawatch from above the beach.
 
 ### Notes for Data Collection
 
@@ -58,7 +53,3 @@ The Tennessee Valley subarea is part of the Southern Marin Christmas Bird Count 
 ### Importance of Tennessee Valley to the CBC
 
 The Tennessee Valley area offers a rich blend of habitats and species diversity. Properly organizing routes and maintaining detailed records ensure that this vital area contributes high-quality data to the overall Southern Marin CBC efforts.
-
-### Details & Maps for each team/section/route:
-
-1.  [**0455+ Owling Oakwood #0**](#) {style="background-color: rgba(128, 64, 0, 0.2); padding: 2px; border-radius: 4px;"} & [**Tennessee Valley #1**](#) {style="background-color: rgba(0, 128, 0, 0.2); padding: 2px; border-radius: 4px;"} (see above) (Alex has had some luck during the day)!

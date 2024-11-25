@@ -1,16 +1,15 @@
 ---
 title: "eBirdCBC Protocol"
-author: "Durrell D. Kapan"
 format: 
     html:
         css: index.css
         anchor-sections: false
 ---
-## Overview
+## Protocol for eBirding a CBC!
 
 eBirdCBC uses eBird and eBird tracks to record all bird and participant data, automating the summary of territory counts for the Christmas Bird Count (CBC). This is combined with manual data collection throughout the day, including effort details and sightings of raptors and large birds.
 
-## Preparing for an eBird-Powered Count Area
+### Preparing for an eBird-Powered Count Area
 
 1.  Work together to divide the count subareas into non-overlapping routes.
 
@@ -20,7 +19,7 @@ eBirdCBC uses eBird and eBird tracks to record all bird and participant data, au
 
 4.  Build team assignments based on these color-coded polygons.
 
-## In-Field Methods
+### In-Field Methods
 
 -   Each team covers their assigned route/polygon starting early in the day.
 
@@ -40,7 +39,7 @@ eBirdCBC uses eBird and eBird tracks to record all bird and participant data, au
 
 -   Record birds seen between polygons in the species comments with relevant details.
 
-# Manual methods (effort, raptors, or all birds)
+### Manual methods (effort, raptors, or all birds)
 
 -   Assign a team member to log effort, raptors, and rare bird notes on paper for transcription into the appropriate eBird field (like time/distance) and/or the eBird memo.
 
@@ -64,7 +63,7 @@ eBirdCBC uses eBird and eBird tracks to record all bird and participant data, au
 
         -   Log rare birds
 
-## Raptors and Large Flying Birds
+### Raptors and Large Flying Birds
 
 Raptors and large flying birds are crucial to track for accurate counts and movement patterns:
 
@@ -84,13 +83,13 @@ Raptors and large flying birds are crucial to track for accurate counts and move
 | Golden Eagle     | M-ranch entry road | 0915 | NE               | Adult | NA   | NA      | This bird was flying high and fast.           |
 | Northern Harrier | M-ranch entry road | 0920 | N                | Adult | Male | NA      | Harrying low flying into the Yellow territory |
 
-## Reminders
+### Reminders
 
 -   Do not include birds seen by people outside your CBC party.
 
 -   Accurate data ensures reliability and utility for future counts.
 
-## Why Use eBird for Christmas Bird Counts?
+### Why Use eBird for Christmas Bird Counts?
 
 Integrating eBird into CBCs simplifies data compilation, captures local knowledge, and improves accuracy. By combining eBird lists and the MAX-SUM™ algorithm, we:
 

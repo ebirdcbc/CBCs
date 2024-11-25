@@ -1,9 +1,0 @@
-name: "home"
-output_dir: "../docs"
-navbar:
-  title: "eBirdCBC"
-  left:
-    - text: "eBirdCBC"
-      href: eBirdCBC.html
-    - text: "About"
-      href: about.html

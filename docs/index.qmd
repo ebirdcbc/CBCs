@@ -14,10 +14,22 @@ Welcome to the eBirdCBC project, a hybrid approach to modernizing the Christmas 
 
 -   [**eBirdCBC Overview**](eBirdCBC.html)**:** Learn about the project's goals, methods, and the MAX-SUM™ algorithm we developed to eliminate double-counting and improve data accuracy.
 
--   [**Protocol**](protocol.html)**:** Dive into detailed guidelines on how to prepare, collect, and transcribe data during your CBC.
+-   [Field Protocol](fieldprotocol.html)**:** Dive into detailed guidelines on how to prepare, collect, and transcribe data during your CBC.
 
--   **Real-World Example: [Abbotts Lagoon](abbottslagoon.html):** See how we apply these methods in the Abbotts Lagoon area. Look at team assignments in the Point Reyes CBC circle.
+-   **Real-World Example: [Abbotts Lagoon](abbottslagoon.html):** See how we apply these methods in the Abbotts Lagoon area. Look at the polygons for each team assignment.
 
 -   **Real-World Example: [Tennessee Valley](tennesseevalley.html):** Discover another real-world example of implementing eBirdCBC in the Southern Marin CBC circle.
 
-Each page provides insights and practical examples to help you understand and participate in a CBC powered by eBirdCBC . Navigate using the links above or the tabs at the top of the site.
+-   **For questions** see our [Contact page](contact.qmd).
+
+### Why Use eBird for Christmas Bird Counts?
+
+Integrating eBird into CBCs simplifies data compilation, captures local knowledge, and improves accuracy. By combining eBird lists and the MAX-SUM™ algorithm, we:
+
+-   Eliminate double-counting and confusion.
+
+-   Enhance repeatability and data reliability.
+
+-   Preserve cultural and local knowledge about count areas and team deployment.
+
+This hybrid approach ensures the long-term success of the CBC as the world’s longest-running community science project while adapting to the information age.

@@ -1,0 +1,99 @@
+---
+title: "eBirdCBC Protocol"
+format: 
+    html:
+        css: index.css
+        anchor-sections: false
+---
+
+## Protocol for eBirding a CBC!
+
+eBirdCBC uses eBird and eBird tracks to record all bird and participant data, automating the summary of territory counts for the Christmas Bird Count (CBC). This is combined with manual data collection throughout the day, including effort details and sightings of raptors and large birds.
+
+### Preparing for an eBird-Powered Count Area before going to the field
+
+1.  Work together to divide the count subareas into non-overlapping routes.
+
+2.  Map these routes and define clear boundaries forming distinct polygons.
+
+3.  Color-code the polygons to reduce confusion.
+
+4.  Build team assignments based on these color-coded polygons.
+
+### In the field data collection details: eBird lists, tracks
+
+**For a given team**, designate a team member to use eBird to track team location and log birds using one of the following methods:
+
+-   Activate eBird starting a new list enabling eBird tracks.
+
+    -   Tally birds at the same time on the app.
+
+        -   -or put your phone in your pocket and-
+
+    -   Write the date, time, location & each bird encountered on paper and transfer to eBird mobile ASAP.
+
+-   Either way, eBird Mobile tracks allow us to divide observations by route for us to automatically compile in eBird.
+
+### Keeping track of the details by hand
+
+**Designate a second member** as a 'back-up' to log effort, raptors & large flyover birds, and rare bird notes on paper to later transcribe the following into the eBird memo:
+
+-   Team name and list number (i.e. Haypress #1).
+
+-   The name (initials) of each participant. 
+
+-   Exact start and stop times & locations for each list (sometimes eBird tracks fail).
+
+-   Note the weather: cloud cover, temperature, wind (Beaufort scale) & precipitation (none, trace, light, medium, heavy).
+
+![Example of effort memo for a given list. Note everything needed to figure out the who, the where, the when, the weather, the raptors and large birds as well as the route.](images/effortmemo.jpg)
+
+### Raptors and Large Flying Birds
+
+With raptors and other large mobile birds it is crucial to track for accurate counts and movement patterns:
+
+-   Record species, time, location, flight direction, age, sex, plumage, behavior, and other details.
+
+-   Use a paper tally sheet to ensure data consistency.
+
+-   Add this information to species comments in eBird after the count.
+
+-   These data help prevent double-counting across subareas and are required for compilation.
+
+### Example Table for Raptors and Large Birds
+
+|                  |                    |      |                  |       |      |         |                                               |
+|---------|---------|---------|---------|---------|---------|---------|---------|
+| Species          | Location           | Time | Flight direction | Age   | Sex  | Plumage | Notes                                         |
+| Golden Eagle     | M-ranch entry road | 0915 | NE               | Adult | NA   | NA      | This bird was flying high and fast.           |
+| Northern Harrier | M-ranch entry road | 0920 | N                | Adult | Male | NA      | Harrying low flying into the Yellow territory |
+
+### **It is really important to:**
+
+-   **Switch eBird lists** and **by-hand effort** notes at the same time throughout the day for each different assigned route/list area.
+
+-   **Create a new list** even when you are returning across your or another team's route/polygon.
+
+-   **Start a new eBird list** with new metadata for any changes in team membership. 
+
+-   **eBird lists** will help us keep track of **total party miles** (one-way distance) and **total party hours** (nearest minute).
+
+-   **Document** **Rare Birds and put this documentation on paper and into your eBird lists:** [tips for documenting unusual observations](https://ebird.freshdesk.com/en/support/solutions/articles/48000803130).
+
+-   **Photographs**: Photos and/or audio recordings of diagnostic vocalizations are the best evidence of a rare bird. Photos are preferably of good quality showing diagnostic features.
+
+### Reminders
+
+-   Each team covers their assigned route/polygon starting at sunrise early in the day.
+
+-   Create a new eBird list for each unique count area (polygon) with eBird tracks enabled. This *forms* the basis for both bird observations and CBC effort data (see below for hints on manual data collection).
+
+-   For large polygons, create multiple lists, especially when moving from one habitat to another or when you have passed out of an area (a 'birdshed') where you cannot track the larger birds you just counted any more.
+
+-   Transcribe eBird data and manual effort notes into eBird list comments. Put raptor details into the species comments.
+
+-   When crossing into other teams’ polygons, create separate eBird lists to collect replicate eBird data. These data will be compared and we will use the *high counts* (e.g. =MAX) for overlapping stationary birds.
+
+-   Record birds seen between polygons in the species comments with relevant details.
+
+-   Do not include birds seen by people outside your CBC party.

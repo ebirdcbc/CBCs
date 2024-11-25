@@ -1,14 +1,11 @@
 ---
 title: "Abbotts Lagoon"
-author: "Durrell D. Kapan"
 format: 
     html:
         css: index.css
         anchor-sections: false
 ---
-The Abbotts Lagoon subarea of the Point Reyes CBC holds a variety of habitats from upland woodlands with Monterey Pine, Cypress, Coast Live Oaks, to grassy grazed areas, coastal scrub, Eucalyptus woodland, ponds, creeks, and both upper and lower Abbotts Lagoon. 
 
-The subarea extends from the Junction of Pierce Point Road along the N. Side of Sir Francis Drake Boulevard to the entrance to the Coastguard Cemetary.  It also includes all of the left hand (W and S) sides of Pierce Point Road to the willows just beyond Abbotts Lagoon.  Of course the main effort covers Abbotts Lagoon from the parking lot at the trailhead, along both sides of the entrance trail and through two routes to the main lagoon, dunes, beach and seawatch.
 ## eBird Checklists for Unique Polygons
 
 We have divided Abbotts Lagoon subarea #23 into different routes with the approximate extent that birds can be seen from anywhere on that route defining a 'birdshed' or color-coded polygon. We use the colors to refer to the routes, polygons *and the team that covers them*.

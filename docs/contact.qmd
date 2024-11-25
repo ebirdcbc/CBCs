@@ -1,0 +1,23 @@
+---
+title: "About"
+format: 
+    html:
+        css: index.css
+        anchor-sections: false
+---
+
+## Contact 
+
+### Meet the Team
+
+-   Dr. Durrell D. Kapan: Senior Research Fellow, California Academy of Sciences. Concept, MAX-SUM algorithm, protocol testing as area leader on two CBC counts.
+
+-   Mark Schulist: eBirdCBC primary developer, programming, website design, and protocol deployment during live CBCs.
+
+-   This project also relies on the efforts of countless volunteers on CBCs who put up with being test subjects.
+
+-   We dedicate this work to all the bird enthusiasts who have contributed to the success of CBCs for over 123 years!
+
+### Contact
+
+For inquiries, please reach out to us at [ebirdcbc\@gmail.com](mailto:ebirdcbc@gmail.com)

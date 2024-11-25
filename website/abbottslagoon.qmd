@@ -1,6 +1,5 @@
 ---
 title: "Abbotts Lagoon"
-author: "Durrell D. Kapan"
 format: 
     html:
         css: index.css
