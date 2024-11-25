@@ -6,11 +6,17 @@ navbar:
   title: "eBirdCBC"
   left:
     - text: "Home"
-      href: index.html
-    - text: "Protocol"
-      href: protocol.qmd
+      href: index.qmd
+    - text: "About eBirdCBC"
+      href: ebirdcbc.qmd
+    - text: "Field Protocol"
+      href: fieldprotocol.qmd
     - text: "Abbotts Lagoon"
       href: abbottslagoon.qmd
+    - text: "Tennessee Valley"
+      href: tennesseevalley.qmd
+    - text: "Contact"
+      href: contact.qmd
 
 format:
   html:
