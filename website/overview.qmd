@@ -9,7 +9,7 @@ format:
 ## 
 
 ---
-title: "eBirdCBC Overview"
+title: "eBirdCBC overview"
 ---
 
 ## About eBirdCBC
