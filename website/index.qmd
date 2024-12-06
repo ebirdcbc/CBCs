@@ -28,7 +28,7 @@ Integrating eBird into CBCs simplifies data compilation, captures local knowledg
 
 This hybrid approach ensures the long-term success of the CBC as the world’s longest-running community science project while adapting to the information age.
 
-## About the eBirdCBC program
+### About the eBirdCBC program
 
 The eBirdCBC program helps streamline the process of compiling data for Christmas Bird Counts (CBCs). Leveraging eBird’s data collection and tracking capabilities, eBirdCBC integrates these tools with an innovative algorithm to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs.
 
