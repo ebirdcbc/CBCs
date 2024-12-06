@@ -1,5 +1,5 @@
 ---
-title: "eBirdCBC methods"
+title: "eBirdCBC Overview"
 format: 
     html:
         css: index.css

@@ -1,39 +1,28 @@
 ---
-title: "Overview"
+title: "eBirdCBC methods"
 format: 
     html:
         css: index.css
         anchor-sections: false
 ---
 
-## 
+## Using the eBirdCBC method
 
----
-title: "eBirdCBC overview"
----
-
-## About eBirdCBC
-
-eBirdCBC is a project designed to modernize and streamline the process of compiling data for Christmas Bird Counts (CBCs). Leveraging eBird’s data collection and tracking capabilities, eBirdCBC integrates these tools with an innovative algorithm to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs.
-
-### Goals
-
--   **Encourage Participation**: Increase engagement by providing easier and more accessible data collection tools for bird counters.
--   **Improve Accuracy**: Address challenges such as overlapping count areas and inconsistent methods with a robust data integration system.
--   **Preserve Knowledge**: Ensure long-term reproducibility and documentation of count methods and results.
+eBirdCBC is a set of field methods (using eBird) and a web-based program (eBirdCBC) designed to modernize and streamline the process of compiling data for Christmas Bird Counts (CBCs). Leveraging eBird’s data collection and tracking capabilities, eBirdCBC integrates these tools with an innovative algorithm to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs.
 
 ### Methods
 
 #### Preparation
 
-1.  Create an **eBird persona** for the CBC area to collect and centralize data.
-2.  Assign participants to use either eBird or paper-based methods, allowing flexibility.
-3.  Create and share a trip report linked to the CBC, ensuring all participants' checklists are included.
+1.  Create an **eBird persona** for the CBC area to collect and centralize data. This is a new eBird login from a new eBird email. For instance create a login e.g. "myebirdarea" with a new email address e.g. "myebirdarea\@gmail.com."
+2.  Assign participants non-overlapping routes (see Field protocol) to use either eBird or paper-based methods that get transcribed to eBird after the count, allowing flexibility.
+3.  Work with the team to review and correct each list's data and ensure the final list is shared back to the the central eBird persona.
+4.  Combine all the lists and create and share a trip report linked to the CBC, ensuring all participants' checklists are included.
 
 #### Data Integration
 
 1.  Copy the trip report URL and paste it into the eBirdCBC tool.
-2.  Log in using the shared eBird persona credentials.
+2.  Log into eBird using the shared eBird persona credentials.
 3.  The tool automatically gathers tracks and species data from all associated eBird checklists.
 
 #### Compilation
@@ -44,11 +33,14 @@ eBirdCBC is a project designed to modernize and streamline the process of compil
     -   Take the maximum count for overlapping stationary birds.
     -   Sum non-overlapping counts.
 4.  Exclude erroneous or unwanted data using the "Delete Group" feature.
+5.  Save (frequently) the final results.
 
 #### Export
 
 1.  Generate a comprehensive CSV report with species counts and grouped checklists.
-2.  Share the database with compilers and upload it back into the app for review.
+2.  We generally use a spreadsheet to link eBirdCBC csv output to the compilers spreadsheet input.
+3.  Then we share that data with compilers.
+4.  We an upload the data back into the app for review.
 
 ### Key Benefits
 
