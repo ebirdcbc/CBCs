@@ -65,7 +65,7 @@ With raptors and other large mobile birds it is crucial to track for accurate co
 ### Example Table for Raptors and Large Birds
 
 |                  |                    |      |                  |       |      |         |                                               |
-|------------------|--------------------|------|------------------|-------|------|---------|-----------------------------------------------|
+|--------|--------|--------|--------|--------|--------|--------|---------------|
 | Species          | Location           | Time | Flight direction | Age   | Sex  | Plumage | Notes                                         |
 | Golden Eagle     | M-ranch entry road | 0915 | NE               | Adult | NA   | NA      | This bird was flying high and fast.           |
 | Northern Harrier | M-ranch entry road | 0920 | N                | Adult | Male | NA      | Harrying low flying into the Yellow territory |
@@ -80,7 +80,7 @@ With raptors and other large mobile birds it is crucial to track for accurate co
 
 -   **eBird lists** will help us keep track of **birds** AND CBC effort data: **total party miles** (one-way distance) and **total party hours** (nearest minute).
 
--   **Document** **Rare Birds and put this documentation on paper and into your eBird lists:** [tips for documenting unusual observations](https://ebird.freshdesk.com/en/support/solutions/articles/48000803130).
+-   **Document** **Rare Birds and put this documentation on paper and into your eBird lists:** [tips for documenting unusual observations](https://ebird.freshdesk.com/en/support/solutions/articles/48000803130). Also you can print up downloadable [rare bird forms](https://media.audubon.org/2024-08/cbc_rare_bird_form.pdf?_gl=1*1u7e1yb*_gcl_au*MTE3ODQwMDM4NS4xNzMzNDcwMzAz*_ga*OTAzOTIyNjM0LjE3MzM0NzAzMDQ.*_ga_X2XNL2MWTT*MTczMzUwODIzOC4yLjEuMTczMzUwODc2Mi42MC4wLjA.).
 
 -   **Photographs**: Photos and/or audio recordings of diagnostic vocalizations are the best evidence of a rare bird. Photos are preferably of good quality showing diagnostic features.
 
