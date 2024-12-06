@@ -102,7 +102,7 @@ With raptors and other large mobile birds it is crucial to track for accurate co
 
 -   Record birds seen between polygons in the species comments with relevant details.
 
--   When retracing your steps, don't just count 'new' birds, make a complete list and let the **MAX-SUM™ algorithm** do the work of figuring out new birds and high-counts.
+-   When retracing your steps, don't just count 'new' birds, make a complete list and let the **MAX-SUM algorithm** do the work of figuring out new birds and high-counts.
 
 -   Do not include birds seen by people outside your CBC party *unless you see them too!*
 

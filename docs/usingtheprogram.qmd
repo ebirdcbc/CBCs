@@ -10,7 +10,7 @@ format:
 
 ### **eBirdCBC Overview**
 
-eBirdCBC is an Electron app designed to use eBird best practices for generating accurate CBC counts for a given area. It displays a map of checklists and allows users to group them, employing the **MAX-SUM™ algorithm,** thereby avoiding double-counting the same birds.
+eBirdCBC is an Electron app designed to use eBird best practices for generating accurate CBC counts for a given area. It displays a map of checklists and allows users to group them, employing the **MAX-SUM algorithm,** thereby avoiding double-counting the same birds.
 
 ### Getting started
 
@@ -58,7 +58,7 @@ These are paraphrased from the instructions [here](https://github.com/ddkapan/eB
 -   If you find errors in the lists or need detailed memos for the trip or species, ask your eBirders to fix those lists and reshare them with your eBird area persona.
 -   Then use **Species Mode** in the eBirdCBC tool to review counts species-by-species.
 -   Identify overlapping counts visually using tracks and assign group numbers.
--   Apply the **MAX-SUM™ algorithm**:
+-   Apply the **MAX-SUM algorithm**:
     -   Take the maximum count for overlapping stationary birds.
     -   Sum non-overlapping counts.
 -   Exclude erroneous or unwanted data using the "Delete Group" feature.

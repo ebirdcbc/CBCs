@@ -24,7 +24,7 @@ The primary mission of eBirdCBC is to:
 
 -   Providing tools to efficiently integrate multiple eBird checklists into the CBC area and count-circle compilation workflows.
 
--   Make it easy to employ the “Max-Sum”™ algorithm to differentiate overlapping and independent checklists for accurate species lists.
+-   Make it easy to employ the “Max-Sum” algorithm to differentiate overlapping and independent checklists for accurate species lists.
 
 -   Document existing CBC community and count-circle count-area knowledge on a persistent platform (eBird).
 

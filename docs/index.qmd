@@ -28,13 +28,13 @@ This hybrid approach ensures the long-term success of the CBC as the world’s l
 
 -   eBirders and CBC participants can start by reviewing the [Field Protocol](fieldprotocol.html)**:** Dive into detailed guidelines on how to prepare for your count, collect eBird data and document effort and raptors, and how to capture and share these data with your area leader after your CBC.
 
--   Area leaders please review the [**eBirdCBC methods**](eBirdCBCmethods.html "eBirdCBC methods")**:** Learn about the project and program methods, and the MAX-SUM™ algorithm we developed to eliminate double-counting and improve data accuracy.
+-   Area leaders please review the [**eBirdCBC methods**](eBirdCBCmethods.html "eBirdCBC methods")**:** Learn about the project and program methods, and the MAX-SUM algorithm we developed to eliminate double-counting and improve data accuracy.
 
--   **Real-World Example: [Abbotts Lagoon](abbottslagoon.html):** Abbotts Lagoon, with its rich diversity of bird species, always attracts all our counters to the lagoon at the end of the day. This was the original motivation to build eBird CBC to automate application of the MAX-SUM™ algorithm to ensure accurate counts by effectively reducing double-counting and improving overall precision.
+-   **Real-World Example: [Abbotts Lagoon](abbottslagoon.html):** Abbotts Lagoon, with its rich diversity of bird species, always attracts all our counters to the lagoon at the end of the day. This was the original motivation to build eBird CBC to automate application of the MAX-SUM algorithm to ensure accurate counts by effectively reducing double-counting and improving overall precision.
 
 -   **Real-World Example: [Tennessee Valley](tennesseevalley.html):** Discover another real-world example of implementing eBirdCBC in the Southern Marin CBC circle where you can see a vareity of 'birdshed' areas divided into different lists. Get your team assignments here!
 
--   **The eBirdCBC software program** helps streamline the process of compiling data for Christmas Bird Counts (CBCs). Leveraging eBird’s data collection and tracking capabilities, eBirdCBC integrates these tools with an innovative MAX-SUM™ algorithm to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs. See [Using the program](usingtheprogram.html) for details on how to download and utilize the software.
+-   **The eBirdCBC software program** helps streamline the process of compiling data for Christmas Bird Counts (CBCs). Leveraging eBird’s data collection and tracking capabilities, eBirdCBC integrates these tools with an innovative MAX-SUM algorithm to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs. See [Using the program](usingtheprogram.html) for details on how to download and utilize the software.
 
 -   **For questions** see our [Contact page](contact.qmd).
 

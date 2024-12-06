@@ -54,7 +54,7 @@ Teams first complete the following assigned **routes through unique polygons** a
 
 #### [**Point Reyes CBC Abbotts Lagoon Area #23 2015-12-19 Trip Report**](https://ebird.org/tripreport/25718) (19 Dec 2015)
 
-(note the trip-lists are raw input for eBirdCBC so they haven't been subject to the “Max-Sum”™ algorithm)!
+(note the trip-lists are raw input for eBirdCBC so they haven't been subject to the “Max-Sum” algorithm)!
 
 ### Under construction: live example with final tally
 

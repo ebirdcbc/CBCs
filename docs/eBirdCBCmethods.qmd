@@ -8,11 +8,11 @@ format:
 
 # Using the eBirdCBC method
 
-eBirdCBC is a set of field methods (using [eBird](https://ebird.org/home)) and a web-based program ([eBirdCBC](https://github.com/ddkapan/eBirdCBC/blob/main/README.md)) designed to modernize and streamline the process of compiling data for [Christmas Bird Counts](https://www.audubon.org/community-science/christmas-bird-count) (CBCs). Leveraging [eBird](https://ebird.org/news/ebird-ios-automatic-tracks-available/)[mobile's](https://ebird.org/about/ebird-mobile/) data collection and [tracking](https://ebird.org/news/ebird-ios-automatic-tracks-available/) capabilities, eBirdCBC integrates these tools with an innovative **MAX-SUM™ algorithm** to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs. This page instructs **area leaders** on the details, but is useful for counters as well as compilers to understand how to use the eBirdCBC method before the count, [in the field](fieldprotocol.html), and after the count.
+eBirdCBC is a set of field methods (using [eBird](https://ebird.org/home)) and a web-based program ([eBirdCBC](https://github.com/ddkapan/eBirdCBC/blob/main/README.md)) designed to modernize and streamline the process of compiling data for [Christmas Bird Counts](https://www.audubon.org/community-science/christmas-bird-count) (CBCs). Leveraging [eBird](https://ebird.org/news/ebird-ios-automatic-tracks-available/)[mobile's](https://ebird.org/about/ebird-mobile/) data collection and [tracking](https://ebird.org/news/ebird-ios-automatic-tracks-available/) capabilities, eBirdCBC integrates these tools with an innovative **MAX-SUM algorithm** to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs. This page instructs **area leaders** on the details, but is useful for counters as well as compilers to understand how to use the eBirdCBC method before the count, [in the field](fieldprotocol.html), and after the count.
 
-### **MAX-SUM™ algorithm**
+### **MAX-SUM algorithm**
 
-The MAX-SUM™ algorithm is a way to make sure we count birds accurately during a Christmas Bird Count, especially when multiple teams will traverse the same location and might see the same birds. Here’s how it works in simple terms:
+The MAX-SUM algorithm is a way to make sure we count birds accurately during a Christmas Bird Count, especially when multiple teams will traverse the same location and might see the same birds. Here’s how it works in simple terms:
 
 1.  **When teams cross the same area and *Birds Stay Still***: If two teams report the same stationary birds (like a sparrows from the same flock, or herons standing in the same pond), we take the highest number of that species reported by any team. To do this we apply the function **MAX** to the birds in overlapping lists. This avoids double-counting but still gives us the best estimate.
 
@@ -68,7 +68,7 @@ Below are the methods for area leaders including what to do before the count, ho
 
 -   Use **Species Mode** in the eBirdCBC tool to review counts species-by-species.
 -   Identify overlapping counts visually using tracks and assign group numbers.
--   Apply the **MAX-SUM™ algorithm**:
+-   Apply the **MAX-SUM algorithm**:
     -   Take the maximum count for overlapping stationary birds.
     -   Sum non-overlapping counts.
 -   Exclude erroneous or unwanted data using the "Delete Group" feature.
