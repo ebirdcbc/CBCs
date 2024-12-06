@@ -63,7 +63,7 @@ With raptors and other large mobile birds it is crucial to track for accurate co
 ### Example Table for Raptors and Large Birds
 
 |                  |                    |      |                  |       |      |         |                                               |
-|---------|---------|---------|---------|---------|---------|---------|---------|
+|------------------|--------------------|------|------------------|-------|------|---------|-----------------------------------------------|
 | Species          | Location           | Time | Flight direction | Age   | Sex  | Plumage | Notes                                         |
 | Golden Eagle     | M-ranch entry road | 0915 | NE               | Adult | NA   | NA      | This bird was flying high and fast.           |
 | Northern Harrier | M-ranch entry road | 0920 | N                | Adult | Male | NA      | Harrying low flying into the Yellow territory |

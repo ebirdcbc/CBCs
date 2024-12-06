@@ -30,8 +30,30 @@ Teams first complete the following assigned **routes through unique polygons** a
 
 -   For birds noted on lists from different parties that cover the same route (e.g. [Red]{style="background-color: rgba(255, 0, 0, 0.2); padding: 2px; border-radius: 4px;"}) that overlap with other [Red]{style="background-color: rgba(255, 0, 0, 0.2); padding: 2px; border-radius: 4px;"} team lists, we will utilize the high count (MAX) from the relevant overlapping lists.
 
--   For birds that are moving around (some large water birds/ducks/shorebirds), we will utilize the high count (MAX) from different lists potentially on the same or different subareas.
+-   For birds that are moving around (some large water birds/ducks/shorebirds), we will utilize the high count (**MAX**) from different lists potentially on the same or different subareas.
 
 -   Make sure to put whether the birds are moving around or are stationary in the comments for the species.
 
-\
+-   Recall, birds from different lists are **SUM**med!
+
+### Access trip reports for previous eBird CBC counts at Abbotts Lagoon
+
+#### [**Point Reyes CBC Abbotts Lagoon Area #23 2023-12-16 Trip Report**](https://ebird.org/tripreport/181729) (16 Dec 2023)
+
+#### [**Point Reyes CBC Abbotts Lagoon Area #23 2022-12-17 Trip Report**](https://ebird.org/tripreport/92441) (17 Dec 2022)
+
+#### [**Point Reyes CBC Abbotts Lagoon Area #23 2021-12-18 Trip Report**](https://ebird.org/tripreport/21566) (18 Dec 2021)
+
+#### [**Point Reyes CBC Abbotts Lagoon Area #23 2019-12-14 Trip Report**](https://ebird.org/tripreport/25712) (14 Dec 2019)
+
+#### [**Point Reyes CBC Abbotts Lagoon Area #23 2018-12-15 Trip Report**](https://ebird.org/tripreport/25711) (15 Dec 2018)
+
+#### [**Point Reyes CBC Abbotts Lagoon Area #23 2017-12-16 Trip Report**](https://ebird.org/tripreport/25716) (16 Dec 2017)
+
+#### [**Point Reyes CBC Abbotts Lagoon Area #23 2016-12-17 Trip Report**](https://ebird.org/tripreport/25717) (17 Dec 2016)
+
+#### [**Point Reyes CBC Abbotts Lagoon Area #23 2015-12-19 Trip Report**](https://ebird.org/tripreport/25718) (19 Dec 2015)
+
+(note the trip-lists are raw input for eBirdCBC so they haven't been subject to the “Max-Sum”™ algorithm)!
+
+### Under construction: live example with final tally

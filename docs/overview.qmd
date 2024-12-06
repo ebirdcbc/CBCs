@@ -56,6 +56,16 @@ eBirdCBC is a project designed to modernize and streamline the process of compil
 -   **Engagement**: Attracts younger participants by integrating with familiar digital tools.
 -   **Reproducibility**: Creates a clear audit trail for count data, enhancing scientific value.
 
+### Real-World Applications
+
+#### Tennessee Valley
+
+This area demonstrates how retrospective mapping and eBird integration improve count accuracy and participant coordination.
+
+#### Abbotts Lagoon
+
+With a large diversity of species, Abbotts Lagoon exemplifies the value of clear data management and the MAX-SUM™ algorithm in minimizing double-counting.
+
 ### Why eBirdCBC Matters
 
 CBCs are one of the longest-running community science projects, offering valuable insights into bird populations over time. By modernizing this tradition with eBirdCBC, we can: - Foster greater interest and participation. - Ensure data accuracy and integrity. - Provide tools for better understanding environmental changes.

@@ -28,6 +28,8 @@ navbar:
         text: Home
       - href: ebirdcbc.qmd
         text: eBirdCBC
+      - href: overview.qmd
+        test: "Overview"
       - href: fieldprotocol.qmd
         text: "Field Protocol"
       - href: abbottslagoon.qmd
