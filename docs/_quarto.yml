@@ -38,7 +38,9 @@ website:
         menu:
           - text: "eBird CBC program"
             href: usingtheprogram.html
-
+      - text: Contact
+        href: contact.html
+      
   # navbar:
   #   search: false
   #   left:
