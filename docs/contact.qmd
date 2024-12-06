@@ -1,12 +1,12 @@
 ---
-title: "About"
+title: "Contact"
 format: 
     html:
         css: index.css
         anchor-sections: false
 ---
 
-## Contact 
+# Contact
 
 ### Meet the Team
 
@@ -21,3 +21,5 @@ format:
 ### Contact
 
 For inquiries, please reach out to us at [ebirdcbc\@gmail.com](mailto:ebirdcbc@gmail.com)
+
+All of this site is © 2015-2024 Durrell D. Kapan, please contact me at the email above if you would like to repackage, duplicate or modify these materials in any way.

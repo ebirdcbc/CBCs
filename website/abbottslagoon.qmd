@@ -6,7 +6,7 @@ format:
         anchor-sections: false
 ---
 
-## eBird Checklists for Unique Polygons
+# Abbotts Lagoon: Teams for Unique 'Birdsheds'
 
 We have divided Abbotts Lagoon subarea #23 into different routes with the approximate extent that birds can be seen from anywhere on that route defining a 'birdshed' or color-coded polygon. We use the colors to refer to the routes, polygons *and the team that covers them*.
 
@@ -57,3 +57,5 @@ Teams first complete the following assigned **routes through unique polygons** a
 (note the trip-lists are raw input for eBirdCBC so they haven't been subject to the “Max-Sum”™ algorithm)!
 
 ### Under construction: live example with final tally
+
+© 2015-2024 Durrell D. Kapan

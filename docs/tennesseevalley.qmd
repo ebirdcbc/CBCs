@@ -6,9 +6,9 @@ format:
         anchor-sections: false
 ---
 
-## Tennessee Valley subarea: Christmas Bird Count Details
+# Tennessee Valley: Multiple lists define separate routes
 
-The Tennessee Valley subarea is part of the Southern Marin Christmas Bird Count circle (CBC). This area features diverse habitats, from oak woodlands to coastal scrub, grasslands, riparian creeks, marshes, ponds, beach and nearshore waters making it an ideal location for bird observation. Below are specific assignments and considerations for teams covering this area.
+The Tennessee Valley subarea is part of the Southern Marin Christmas Bird Count circle (CBC). This area features diverse habitats, from oak woodlands to coastal scrub, grasslands, riparian creeks, marshes, ponds, beach and nearshore waters making it an ideal location for bird observation. Since access to the various regions in the subarea are varied and several overlap on the main valley trail (both in and out and parts intersected by separate teams) we've divided the area into many small eBird checklists. Below are specific assignments and considerations for teams covering this area.
 
 ### Overview
 
@@ -67,3 +67,5 @@ The Tennessee Valley subarea is part of the Southern Marin Christmas Bird Count 
 (note the trip-lists are raw input for eBirdCBC so they haven't been subject to the “Max-Sum”™ algorithm)!
 
 ### Under construction: live example with final tally
+
+© 2015-2024 Durrell D. Kapan

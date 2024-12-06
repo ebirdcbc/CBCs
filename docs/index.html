@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>- Home</title>
+<title>eBirdCBC - Home</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,6 +24,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -38,11 +39,11 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 20,
   "language": {
     "search-no-results-text": "No results",
@@ -63,11 +64,67 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="index.css">
 </head>
 
-<body>
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">eBirdCBC</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./eBirdCBCmethods.html" rel="" target="">
+ <span class="menu-text">Methods</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./fieldprotocol.html" rel="" target="">
+ <span class="menu-text">Field Protocol</span></a>
+  </li>  
+  <li class="dropdown-header">
+ <span class="menu-text">examples</span></li>
+  <li class="nav-item">
+    <a class="nav-link" href="./abbottslagoon.html" rel="" target="">
+ <span class="menu-text">Abbotts Lagoon</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./tennesseevalley.html" rel="" target="">
+ <span class="menu-text">Tennessee Valley</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./ebirdcbc.html" rel="" target="">
+ <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html" rel="" target="">
+ <span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools ms-auto">
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -106,9 +163,9 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="ebirdcbc-project" class="level2">
-<h2 data-anchor-id="ebirdcbc-project">eBirdCBC Project</h2>
-<p>Welcome to the eBirdCBC project, a hybrid approach to modernizing the Christmas Bird Count (CBC) using eBird data and tools. Explore how we blend traditional methods with digital tools to enhance accuracy, repeatability, increase CBC participation, and the long-term value for bird conservation efforts.</p>
+<section id="ebirdcbc-project" class="level1">
+<h1>eBirdCBC Project</h1>
+<p>Welcome to the eBirdCBC project, a hybrid approach to modernizing the <a href="https://www.audubon.org/community-science/christmas-bird-count">Christmas Bird Count</a> (CBC) using <a href="https://ebird.org/home">eBird</a> data and tools. Explore how we blend traditional methods with digital tools to enhance accuracy, repeatability, increase CBC participation, and the long-term value for bird conservation efforts.</p>
 <section id="goals" class="level3">
 <h3 data-anchor-id="goals">Goals</h3>
 <ul>
@@ -139,8 +196,8 @@ ul.task-list li input[type="checkbox"] {
 <li><p><strong>Real-World Example: <a href="abbottslagoon.html">Abbotts Lagoon</a>:</strong>&nbsp;Abbotts Lagoon, with its rich diversity of bird species, always attracts all our counters to the lagoon at the end of the day. This example showcases how careful data management combined with the MAX-SUM™ algorithm ensures accurate counts by effectively reducing double-counting and improving overall precision.</p></li>
 <li><p><strong>Real-World Example: <a href="tennesseevalley.html">Tennessee Valley</a>:</strong>&nbsp;Discover another real-world example of implementing eBirdCBC in the Southern Marin CBC circle.</p></li>
 <li><p><strong>For questions</strong> see our <a href="./contact.html">Contact page</a>.</p></li>
-<li><p>All this site is (c) 2015-2024 Durrell D. Kapan, please email if you would like to duplicate or modify these materials in any way.</p></li>
 </ul>
+<p>All of this site is © 2015-2024 Durrell D. Kapan, please <a href="./contact.html">contact me</a> if you would like to duplicate or modify these materials in any way.</p>
 </section>
 <section id="section" class="level3">
 <h3 data-anchor-id="section"></h3>

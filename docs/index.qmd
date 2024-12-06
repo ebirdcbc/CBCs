@@ -6,9 +6,9 @@ format:
         anchor-sections: false
 ---
 
-## eBirdCBC Project
+# eBirdCBC Project
 
-Welcome to the eBirdCBC project, a hybrid approach to modernizing the Christmas Bird Count (CBC) using eBird data and tools. Explore how we blend traditional methods with digital tools to enhance accuracy, repeatability, increase CBC participation, and the long-term value for bird conservation efforts.
+Welcome to the eBirdCBC project, a hybrid approach to modernizing the [Christmas Bird Count](https://www.audubon.org/community-science/christmas-bird-count) (CBC) using [eBird](https://ebird.org/home) data and tools. Explore how we blend traditional methods with digital tools to enhance accuracy, repeatability, increase CBC participation, and the long-term value for bird conservation efforts.
 
 ### Goals
 
@@ -44,6 +44,6 @@ The eBirdCBC program helps streamline the process of compiling data for Christma
 
 -   **For questions** see our [Contact page](contact.qmd).
 
--   All this site is (c) 2015-2024 Durrell D. Kapan, please email if you would like to duplicate or modify these materials in any way.
+All of this site is © 2015-2024 Durrell D. Kapan, please [contact me](contact.qmd) if you would like to duplicate or modify these materials in any way.
 
 ### 

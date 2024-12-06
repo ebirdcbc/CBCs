@@ -9,34 +9,29 @@ project:
     - "*.qmd"
 
 filters: []
-# filters: 
-#   - shinylive
 
 website:
-  title: " "
-  reader-mode: false
+  title: "eBirdCBC"
+  reader-mode: true
   page-navigation: true
-  # page-footer: 
-  #   background: "#343a40"
-  #   center: |
-  #     ![](/images/Academy_Logo-Horizontal-Academy_Green.png)
-    
-navbar:
+
+  navbar:
     search: false
-    top:
-      - href: index.qmd
+    left:
+      - href: index.html
         text: Home
-      - href: ebirdcbc.qmd
-        text: eBirdCBC
-      - href: overview.qmd
-        test: "Overview"
-      - href: fieldprotocol.qmd
-        text: "Field Protocol"
-      - href: abbottslagoon.qmd
-        text: "Abbotts Lagoon"
-      - href: tennesseevalley.qmd
-        text: "Tennessee Valley"
-      - href: contact.qmd
+      - href: eBirdCBCmethods.html
+        text: Methods
+      - href: fieldprotocol.html
+        text: Field Protocol
+      - text: examples
+      - href: abbottslagoon.html
+        text: Abbotts Lagoon
+      - href: tennesseevalley.html
+        text: Tennessee Valley
+      - href: ebirdcbc.html
+        text: About
+      - href: contact.html
         text: Contact
 
 format:

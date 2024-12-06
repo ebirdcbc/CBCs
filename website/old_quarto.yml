@@ -1,0 +1,68 @@
+# project:
+#   type: website
+#   output-dir: ../docs
+#   resources: input/*
+#   preview: 
+#     port: 4321
+#     browser: true
+#   render: 
+#     - "*.qmd"
+project:
+  type: website
+  output-dir: docs
+  preview: 
+    port: 4321
+    browser: true
+  render: 
+    - "website/*.qmd"
+
+# filters: []
+# filters: 
+#   - shinylive
+
+# website:
+#   title: " "
+#   reader-mode: true
+#   page-navigation: true
+  # page-footer: 
+  #   background: "#343a40"
+  #   center: |
+  #     ![](/images/Academy_Logo-Horizontal-Academy_Green.png)
+    
+
+navbar:
+  title: "eBirdCBC"
+  left:
+    - text: "Home"
+      href: website/index.qmd
+    - text: "Methods"
+      href: website/eBirdCBCmethods.qmd
+    - text: "Examples"
+      dropdown:
+        - text: "Abbotts Lagoon"
+          href: website/abbottslagoon.qmd
+        - text: "Tennessee Valley"
+          href: website/tennesseevalley.qmd
+    - text: "Field Protocol"
+      href: website/protocol.qmd
+    - text: "Contact"
+      href: website/contact.qmd
+
+# format:
+#   html:
+#     theme: flatly
+#     fontsize: 1.3em
+#     toc: true
+#     page-layout: full
+
+format:
+  html:
+    theme: flatly
+    bootstrap-version: 5
+    fontsize: 1.3em
+    css: styles.css
+    toc: true
+    page-layout: full
+    grid:
+      body-width: 1500px
+      gutter-width: 4em

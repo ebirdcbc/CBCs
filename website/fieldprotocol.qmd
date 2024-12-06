@@ -1,18 +1,18 @@
 ---
-title: "eBirdCBC Protocol"
+title: "eBirdCBC field protocol"
 format: 
     html:
         css: index.css
         anchor-sections: false
 ---
 
-## Protocol for eBirding a CBC!
+# Protocol for eBirding a CBC!
 
-eBirdCBC uses eBird and eBird tracks to record all bird and participant data, automating the summary of territory counts for the Christmas Bird Count (CBC). This is combined with manual data collection throughout the day, including effort details and sightings of raptors and large birds.
+eBirdCBC uses [eBird](https://ebird.org/home) and [eBird tracks](https://ebird.org/news/ebird-ios-automatic-tracks-available/) to record all bird and participant data, automating the summary of territory counts for the Christmas Bird Count (CBC). This is combined with [eBird mobile](https://ebird.org/about/ebird-mobile/) and manual data collection throughout the day, including capturing effort details and sightings of raptors and large birds.
 
-### Preparing for an eBird-Powered Count Area before going to the field
+### Count area leaders: how to prepare for an eBird-Powered Count Area before going to the field
 
-1.  Work together to divide the count subareas into non-overlapping routes.
+1.  Divide the count subareas into non-overlapping routes.
 
 2.  Map these routes and define clear boundaries forming distinct polygons.
 
@@ -20,9 +20,9 @@ eBirdCBC uses eBird and eBird tracks to record all bird and participant data, au
 
 4.  Build team assignments based on these color-coded polygons.
 
-### In the field data collection details: eBird lists, tracks
+### CBC area participants: field details: eBird lists, tracks
 
-**For a given team**, designate a team member to use eBird to track team location and log birds using one of the following methods:
+**For a given team**, designate a team member to use [eBird mobile](https://ebird.org/about/ebird-mobile/) to track team location and log birds using one of the following methods:
 
 -   Activate eBird starting a new list enabling eBird tracks.
 
@@ -30,13 +30,13 @@ eBirdCBC uses eBird and eBird tracks to record all bird and participant data, au
 
         -   -or put your phone in your pocket and-
 
-    -   Write the date, time, location & each bird encountered on paper and transfer to eBird mobile ASAP.
+    -   Write the date, time, location & each bird encountered on paper and transfer to eBird mobile ASAP. See this [convenient PDF form](input/eBird_CBC_2024_to_print.pdf) for the latter.
 
--   Either way, eBird Mobile tracks allow us to divide observations by route for us to automatically compile in eBird.
+-   Either way, [eBird Mobile tracks](https://ebird.org/news/ebird-ios-automatic-tracks-available/) allow us to divide observations by route for us to automatically compile in eBird.
 
 ### Keeping track of the details by hand
 
-**Designate a second member** as a 'back-up' to log effort, raptors & large flyover birds, and rare bird notes on paper to later transcribe the following into the eBird memo:
+**Designate a second member** as a 'back-up' to log participants, effort, raptors & large flyover birds, and rare bird notes on paper to later transcribe the following into the eBird memo:
 
 -   Team name and list number (i.e. Haypress #1).
 
@@ -63,7 +63,7 @@ With raptors and other large mobile birds it is crucial to track for accurate co
 ### Example Table for Raptors and Large Birds
 
 |                  |                    |      |                  |       |      |         |                                               |
-|------------------|--------------------|------|------------------|-------|------|---------|-----------------------------------------------|
+|--------|--------|--------|--------|--------|--------|--------|---------------|
 | Species          | Location           | Time | Flight direction | Age   | Sex  | Plumage | Notes                                         |
 | Golden Eagle     | M-ranch entry road | 0915 | NE               | Adult | NA   | NA      | This bird was flying high and fast.           |
 | Northern Harrier | M-ranch entry road | 0920 | N                | Adult | Male | NA      | Harrying low flying into the Yellow territory |
@@ -82,6 +82,8 @@ With raptors and other large mobile birds it is crucial to track for accurate co
 
 -   **Photographs**: Photos and/or audio recordings of diagnostic vocalizations are the best evidence of a rare bird. Photos are preferably of good quality showing diagnostic features.
 
+-  **Upload and Share**: Last but not least--after your eBird lists are all set and uploaded to eBird, share them with your area leader's persona using the share function either from eBird mobile, or from the your eBird list on the web interface.  If they ask you to correct something, do so and RESHARE back to their eBird persona.
+
 ### Reminders
 
 -   Each team covers their assigned route/polygon starting at sunrise early in the day.
@@ -97,3 +99,5 @@ With raptors and other large mobile birds it is crucial to track for accurate co
 -   Record birds seen between polygons in the species comments with relevant details.
 
 -   Do not include birds seen by people outside your CBC party.
+
+© 2015-2024 Durrell D. Kapan

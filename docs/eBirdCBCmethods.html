@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>- eBirdCBC methods</title>
+<title>eBirdCBC - eBirdCBC methods</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,6 +24,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -38,11 +39,11 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 20,
   "language": {
     "search-no-results-text": "No results",
@@ -63,11 +64,67 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="index.css">
 </head>
 
-<body>
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">eBirdCBC</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./eBirdCBCmethods.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Methods</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./fieldprotocol.html" rel="" target="">
+ <span class="menu-text">Field Protocol</span></a>
+  </li>  
+  <li class="dropdown-header">
+ <span class="menu-text">examples</span></li>
+  <li class="nav-item">
+    <a class="nav-link" href="./abbottslagoon.html" rel="" target="">
+ <span class="menu-text">Abbotts Lagoon</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./tennesseevalley.html" rel="" target="">
+ <span class="menu-text">Tennessee Valley</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./ebirdcbc.html" rel="" target="">
+ <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html" rel="" target="">
+ <span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools ms-auto">
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -77,7 +134,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#using-the-ebirdcbc-method" id="toc-using-the-ebirdcbc-method" class="nav-link active" data-scroll-target="#using-the-ebirdcbc-method">Using the eBirdCBC method</a>
   <ul class="collapse">
-  <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a></li>
+  <li><a href="#methods-for-area-leaders" id="toc-methods-for-area-leaders" class="nav-link" data-scroll-target="#methods-for-area-leaders">Methods for area leaders</a></li>
   <li><a href="#key-benefits" id="toc-key-benefits" class="nav-link" data-scroll-target="#key-benefits">Key Benefits</a></li>
   <li><a href="#why-ebirdcbc-matters" id="toc-why-ebirdcbc-matters" class="nav-link" data-scroll-target="#why-ebirdcbc-matters">Why eBirdCBC Matters</a></li>
   </ul></li>
@@ -104,18 +161,22 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="using-the-ebirdcbc-method" class="level2">
-<h2 data-anchor-id="using-the-ebirdcbc-method">Using the eBirdCBC method</h2>
-<p>eBirdCBC is a set of field methods (using eBird) and a web-based program (eBirdCBC) designed to modernize and streamline the process of compiling data for Christmas Bird Counts (CBCs). Leveraging eBird’s data collection and tracking capabilities, eBirdCBC integrates these tools with an innovative algorithm to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs.</p>
-<section id="methods" class="level3">
-<h3 data-anchor-id="methods">Methods</h3>
-<section id="preparation" class="level4">
-<h4 data-anchor-id="preparation">Preparation</h4>
+<section id="using-the-ebirdcbc-method" class="level1">
+<h1>Using the eBirdCBC method</h1>
+<p>eBirdCBC is a set of field methods (using <a href="https://ebird.org/home">eBird</a>) and a web-based program (<a href="https://github.com/ddkapan/eBirdCBC/blob/main/README.md">eBirdCBC</a>) designed to modernize and streamline the process of compiling data for <a href="https://www.audubon.org/community-science/christmas-bird-count">Christmas Bird Counts</a> (CBCs). Leveraging <a href="https://ebird.org/news/ebird-ios-automatic-tracks-available/">eBird</a><a href="https://ebird.org/about/ebird-mobile/">mobile’s</a> data collection and <a href="https://ebird.org/news/ebird-ios-automatic-tracks-available/">tracking</a> capabilities, eBirdCBC integrates these tools with an innovative algorithm to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs.</p>
+<section id="methods-for-area-leaders" class="level3">
+<h3 data-anchor-id="methods-for-area-leaders">Methods for area leaders</h3>
+<p>Below are the methods for area leaders. All participants should read these over to understand what your area leader going to do with the data you collect using the participant team’s <a href="fieldprotocol.html">field protocol</a>.</p>
+<section id="pre-count-preparation" class="level4">
+<h4 data-anchor-id="pre-count-preparation">Pre-count preparation</h4>
 <ol type="1">
 <li>Create an <strong>eBird persona</strong> for the CBC area to collect and centralize data. This is a new eBird login from a new eBird email. For instance create a login e.g.&nbsp;“myebirdarea” with a new email address e.g.&nbsp;“myebirdarea@gmail.com.”</li>
-<li>Assign participants non-overlapping routes (see Field protocol) to use either eBird or paper-based methods that get transcribed to eBird after the count, allowing flexibility.</li>
+<li>Assign area participants in small groups non-overlapping routes (see Field protocol) to use either eBird or paper-based methods that get transcribed to eBird after the count, allowing flexibility.</li>
+<li>Each team of one or more people birding independently use eBird to track their observations (see <a href="fieldprotocol.html">field protocol</a>).</li>
 <li>Work with the team to review and correct each list’s data and ensure the final list is shared back to the the central eBird persona.</li>
 <li>Combine all the lists and create and share a trip report linked to the CBC, ensuring all participants’ checklists are included.</li>
+<li>Pro-tip, use your new email to organize all the communication with your participants!</li>
+<li>Caution: only use your eBird persona on the day of the count! It is for aggregating all of your data from each group/participant’s separate eBird list.</li>
 </ol>
 </section>
 <section id="data-integration" class="level4">
@@ -162,6 +223,7 @@ ul.task-list li input[type="checkbox"] {
 <h3 data-anchor-id="why-ebirdcbc-matters">Why eBirdCBC Matters</h3>
 <p>CBCs are one of the longest-running community science projects, offering valuable insights into bird populations over time. By modernizing this tradition with eBirdCBC, we can: - Foster greater interest and participation. - Ensure data accuracy and integrity. - Provide tools for better understanding environmental changes.</p>
 <p>This project bridges the gap between tradition and innovation, making CBCs more accessible and impactful for generations to come.</p>
+<p>© 2015-2024 Durrell D. Kapan</p>
 
 
 </section>

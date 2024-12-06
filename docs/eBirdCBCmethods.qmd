@@ -1,23 +1,28 @@
 ---
-title: "eBirdCBC Overview"
+title: "eBirdCBC methods"
 format: 
     html:
         css: index.css
         anchor-sections: false
 ---
 
-## Using the eBirdCBC method
+# Using the eBirdCBC method
 
-eBirdCBC is a set of field methods (using eBird) and a web-based program (eBirdCBC) designed to modernize and streamline the process of compiling data for Christmas Bird Counts (CBCs). Leveraging eBird’s data collection and tracking capabilities, eBirdCBC integrates these tools with an innovative algorithm to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs.
+eBirdCBC is a set of field methods (using [eBird](https://ebird.org/home)) and a web-based program ([eBirdCBC](https://github.com/ddkapan/eBirdCBC/blob/main/README.md)) designed to modernize and streamline the process of compiling data for [Christmas Bird Counts](https://www.audubon.org/community-science/christmas-bird-count) (CBCs). Leveraging [eBird ](https://ebird.org/news/ebird-ios-automatic-tracks-available/)[mobile's](https://ebird.org/about/ebird-mobile/) data collection and [tracking](https://ebird.org/news/ebird-ios-automatic-tracks-available/) capabilities, eBirdCBC integrates these tools with an innovative algorithm to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs.
 
-### Methods
+### Methods for area leaders
 
-#### Preparation
+Below are the methods for area leaders. All participants should read these over to understand what your area leader going to do with the data you collect using the participant team's [field protocol](fieldprotocol.html).
+
+#### Pre-count preparation
 
 1.  Create an **eBird persona** for the CBC area to collect and centralize data. This is a new eBird login from a new eBird email. For instance create a login e.g. "myebirdarea" with a new email address e.g. "myebirdarea\@gmail.com."
-2.  Assign participants non-overlapping routes (see Field protocol) to use either eBird or paper-based methods that get transcribed to eBird after the count, allowing flexibility.
-3.  Work with the team to review and correct each list's data and ensure the final list is shared back to the the central eBird persona.
-4.  Combine all the lists and create and share a trip report linked to the CBC, ensuring all participants' checklists are included.
+2.  Assign area participants in small groups non-overlapping routes (see Field protocol) to use either eBird or paper-based methods that get transcribed to eBird after the count, allowing flexibility.
+3.  Each team of one or more people birding independently use eBird to track their observations (see [field protocol](fieldprotocol.html)).
+4.  Work with the team to review and correct each list's data and ensure the final list is shared back to the the central eBird persona.
+5.  Combine all the lists and create and share a trip report linked to the CBC, ensuring all participants' checklists are included.
+6.  Pro-tip, use your new email to organize all the communication with your participants!
+7.  Caution: only use your eBird persona on the day of the count! It is for aggregating all of your data from each group/participant's separate eBird list.
 
 #### Data Integration
 
@@ -53,3 +58,5 @@ eBirdCBC is a set of field methods (using eBird) and a web-based program (eBirdC
 CBCs are one of the longest-running community science projects, offering valuable insights into bird populations over time. By modernizing this tradition with eBirdCBC, we can: - Foster greater interest and participation. - Ensure data accuracy and integrity. - Provide tools for better understanding environmental changes.
 
 This project bridges the gap between tradition and innovation, making CBCs more accessible and impactful for generations to come.
+
+© 2015-2024 Durrell D. Kapan
