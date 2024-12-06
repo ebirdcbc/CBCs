@@ -44,4 +44,6 @@ The eBirdCBC program helps streamline the process of compiling data for Christma
 
 -   **For questions** see our [Contact page](contact.qmd).
 
+-   All this site is (c) 2015-2024 Durrell D. Kapan, please email if you would like to duplicate or modify these materials in any way.
+
 ### 
