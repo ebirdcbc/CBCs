@@ -14,25 +14,49 @@ website:
   title: "eBirdCBC"
   reader-mode: true
   page-navigation: true
-
+  
   navbar:
-    search: false
+    search: FALSE
     left:
-      - href: index.html
-        text: Home
-      - href: eBirdCBCmethods.html
-        text: Methods
-      - href: fieldprotocol.html
-        text: Field Protocol
-      - text: examples
-      - href: abbottslagoon.html
-        text: Abbotts Lagoon
-      - href: tennesseevalley.html
-        text: Tennessee Valley
-      - href: ebirdcbc.html
-        text: About
-      - href: contact.html
-        text: Contact
+      - text: "Home"
+        href: index.html
+      - text: "For CBC Counters"
+        menu:
+          - text: "Field Protocol"
+            href: fieldprotocol.html
+      - text: "For Area Leaders"
+        menu:
+          - text: "Overall Methods"
+            href: eBirdCBCmethods.html
+      - text: "Examples"
+        menu:
+          - text: "Abbotts Lagoon"
+            href: abbottslagoon.html
+          - text: "Tennessee Valley"
+            href: tennesseevalley.html
+      - text: "Using the Program"
+        menu:
+          - text: "eBird CBC program"
+            href: usingtheprogram.html
+
+  # navbar:
+  #   search: false
+  #   left:
+  #     - href: index.html
+  #       text: Home
+  #     - href: eBirdCBCmethods.html
+  #       text: Methods
+  #     - href: fieldprotocol.html
+  #       text: Field Protocol
+  #     - text: examples
+  #     - href: abbottslagoon.html
+  #       text: Abbotts Lagoon
+  #     - href: tennesseevalley.html
+  #       text: Tennessee Valley
+  #     - href: ebirdcbc.html
+  #       text: About
+  #     - href: contact.html
+  #       text: Contact
 
 format:
   html:

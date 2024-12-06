@@ -85,32 +85,54 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="./eBirdCBCmethods.html" rel="" target="" aria-current="page">
- <span class="menu-text">Methods</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-for-cbc-counters" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">For CBC Counters</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-for-cbc-counters">    
+        <li>
+    <a class="dropdown-item" href="./fieldprotocol.html" rel="" target="">
+ <span class="dropdown-text">Field Protocol</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./fieldprotocol.html" rel="" target="">
- <span class="menu-text">Field Protocol</span></a>
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-for-area-leaders" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">For Area Leaders</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-for-area-leaders">    
+        <li>
+    <a class="dropdown-item" href="./eBirdCBCmethods.html" rel="" target="">
+ <span class="dropdown-text">Overall Methods</span></a>
   </li>  
-  <li class="dropdown-header">
- <span class="menu-text">examples</span></li>
-  <li class="nav-item">
-    <a class="nav-link" href="./abbottslagoon.html" rel="" target="">
- <span class="menu-text">Abbotts Lagoon</span></a>
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-examples" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Examples</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-examples">    
+        <li>
+    <a class="dropdown-item" href="./abbottslagoon.html" rel="" target="">
+ <span class="dropdown-text">Abbotts Lagoon</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./tennesseevalley.html" rel="" target="">
- <span class="menu-text">Tennessee Valley</span></a>
+        <li>
+    <a class="dropdown-item" href="./tennesseevalley.html" rel="" target="">
+ <span class="dropdown-text">Tennessee Valley</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./ebirdcbc.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-using-the-program" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Using the Program</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-using-the-program">    
+        <li>
+    <a class="dropdown-item" href="./usingtheprogram.html" rel="" target="">
+ <span class="dropdown-text">eBird CBC program</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./contact.html" rel="" target="">
- <span class="menu-text">Contact</span></a>
-  </li>  
+    </ul>
+  </li>
 </ul>
             <div class="quarto-navbar-tools ms-auto">
   <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
@@ -134,9 +156,8 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#using-the-ebirdcbc-method" id="toc-using-the-ebirdcbc-method" class="nav-link active" data-scroll-target="#using-the-ebirdcbc-method">Using the eBirdCBC method</a>
   <ul class="collapse">
-  <li><a href="#methods-for-area-leaders" id="toc-methods-for-area-leaders" class="nav-link" data-scroll-target="#methods-for-area-leaders">Methods for area leaders</a></li>
-  <li><a href="#key-benefits" id="toc-key-benefits" class="nav-link" data-scroll-target="#key-benefits">Key Benefits</a></li>
-  <li><a href="#why-ebirdcbc-matters" id="toc-why-ebirdcbc-matters" class="nav-link" data-scroll-target="#why-ebirdcbc-matters">Why eBirdCBC Matters</a></li>
+  <li><a href="#max-sum-algorithm" id="toc-max-sum-algorithm" class="nav-link" data-scroll-target="#max-sum-algorithm"><strong>MAX-SUM™ algorithm</strong></a></li>
+  <li><a href="#count-area-leaders-how-to-prepare-for-an-ebird-powered-count-area-before-going-to-the-field" id="toc-count-area-leaders-how-to-prepare-for-an-ebird-powered-count-area-before-going-to-the-field" class="nav-link" data-scroll-target="#count-area-leaders-how-to-prepare-for-an-ebird-powered-count-area-before-going-to-the-field"><strong>Count area leaders: how to prepare for an eBird-Powered Count Area before going to the field</strong></a></li>
   </ul></li>
   </ul>
 </nav>
@@ -163,33 +184,66 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="using-the-ebirdcbc-method" class="level1">
 <h1>Using the eBirdCBC method</h1>
-<p>eBirdCBC is a set of field methods (using <a href="https://ebird.org/home">eBird</a>) and a web-based program (<a href="https://github.com/ddkapan/eBirdCBC/blob/main/README.md">eBirdCBC</a>) designed to modernize and streamline the process of compiling data for <a href="https://www.audubon.org/community-science/christmas-bird-count">Christmas Bird Counts</a> (CBCs). Leveraging <a href="https://ebird.org/news/ebird-ios-automatic-tracks-available/">eBird</a><a href="https://ebird.org/about/ebird-mobile/">mobile’s</a> data collection and <a href="https://ebird.org/news/ebird-ios-automatic-tracks-available/">tracking</a> capabilities, eBirdCBC integrates these tools with an innovative algorithm to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs.</p>
-<section id="methods-for-area-leaders" class="level3">
-<h3 data-anchor-id="methods-for-area-leaders">Methods for area leaders</h3>
-<p>Below are the methods for area leaders. All participants should read these over to understand what your area leader going to do with the data you collect using the participant team’s <a href="fieldprotocol.html">field protocol</a>.</p>
+<p>eBirdCBC is a set of field methods (using <a href="https://ebird.org/home">eBird</a>) and a web-based program (<a href="https://github.com/ddkapan/eBirdCBC/blob/main/README.md">eBirdCBC</a>) designed to modernize and streamline the process of compiling data for <a href="https://www.audubon.org/community-science/christmas-bird-count">Christmas Bird Counts</a> (CBCs). Leveraging <a href="https://ebird.org/news/ebird-ios-automatic-tracks-available/">eBird</a><a href="https://ebird.org/about/ebird-mobile/">mobile’s</a> data collection and <a href="https://ebird.org/news/ebird-ios-automatic-tracks-available/">tracking</a> capabilities, eBirdCBC integrates these tools with an innovative <strong>MAX-SUM™ algorithm</strong> to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs. This page instructs <strong>area leaders</strong> on the details, but is useful for counters as well as compilers to understand how to use the eBirdCBC method before the count, <a href="fieldprotocol.html">in the field</a>, and after the count.</p>
+<section id="max-sum-algorithm" class="level3">
+<h3 data-anchor-id="max-sum-algorithm"><strong>MAX-SUM™ algorithm</strong></h3>
+<p>The MAX-SUM™ algorithm is a way to make sure we count birds accurately during a Christmas Bird Count, especially when multiple teams will traverse the same location and might see the same birds. Here’s how it works in simple terms:</p>
+<ol type="1">
+<li><strong>When teams cross the same area and <em>Birds Stay Still</em></strong>: If two teams report the same stationary birds (like a sparrows from the same flock, or herons standing in the same pond), we take the highest number of that species reported by any team. To do this we apply the function <strong>MAX</strong> to the birds in overlapping lists. This avoids double-counting but still gives us the best estimate.</li>
+</ol>
+<!-- -->
+<ol start="2" type="1">
+<li><strong>When teams are in separate areas but the <em>Species Moves Around</em></strong>: For birds that are flying or moving between areas (like swans or hawks), we still take the <strong>MAX for that species</strong> from the numbers reported by different teams if we can determine from the <em>details in the observations</em> (see field protocol) that they are the same birds.</li>
+</ol>
+<!-- -->
+<ol start="3" type="1">
+<li><strong>When teams are in separate areas and the <em>Species are Not Moving Around</em></strong>: For birds that are stationary we combine lists from different areas using the <strong>SUM function for that species</strong> from the numbers reported by different teams. This is usually true for all small bird species that do not move between lists for different subareas. A few exceptions might be high flyover flocks of finch family birds or Cedar Waxwings.</li>
+</ol>
+<p>In short: The eBirdCBC program <strong>takes the MAX for overlapping counts</strong> and <strong>SUM the counts for non-overlapping areas</strong>. This keeps the bird count as accurate as possible without overestimating or underestimating the numbers.</p>
+</section>
+<section id="count-area-leaders-how-to-prepare-for-an-ebird-powered-count-area-before-going-to-the-field" class="level3">
+<h3 data-anchor-id="count-area-leaders-how-to-prepare-for-an-ebird-powered-count-area-before-going-to-the-field"><strong>Count area leaders: how to prepare for an eBird-Powered Count Area before going to the field</strong></h3>
+<p>Below are the methods for area leaders including what to do before the count, how to plan your team assignments and instruct your team-members, and what to do after the count. All participants should read these over to understand what your area leader going to do with the data you collect using the participant team’s <a href="fieldprotocol.html">field protocol</a>.</p>
 <section id="pre-count-preparation" class="level4">
 <h4 data-anchor-id="pre-count-preparation">Pre-count preparation</h4>
-<ol type="1">
-<li>Create an <strong>eBird persona</strong> for the CBC area to collect and centralize data. This is a new eBird login from a new eBird email. For instance create a login e.g.&nbsp;“myebirdarea” with a new email address e.g.&nbsp;“myebirdarea@gmail.com.”</li>
-<li>Assign area participants in small groups non-overlapping routes (see Field protocol) to use either eBird or paper-based methods that get transcribed to eBird after the count, allowing flexibility.</li>
-<li>Each team of one or more people birding independently use eBird to track their observations (see <a href="fieldprotocol.html">field protocol</a>).</li>
-<li>Work with the team to review and correct each list’s data and ensure the final list is shared back to the the central eBird persona.</li>
-<li>Combine all the lists and create and share a trip report linked to the CBC, ensuring all participants’ checklists are included.</li>
-<li>Pro-tip, use your new email to organize all the communication with your participants!</li>
-<li>Caution: only use your eBird persona on the day of the count! It is for aggregating all of your data from each group/participant’s separate eBird list.</li>
-</ol>
+<ul>
+<li>Area leaders need a <a href="https://support.ebird.org/en/support/solutions/articles/48001158707-get-started-with-ebird#Create-a-free-account">new eBird account</a> with a new <strong>eBird persona</strong> for the CBC area to collect and centralize data. This is a new eBird login from a new eBird email. For instance create a login e.g.&nbsp;“myebirdarea” with a new email address e.g.&nbsp;“myebirdarea@gmail.com.” This eBird persona ‘rides along’ with each group and serves to aggregate all the eBird data for the count.</li>
+<li>Assign area participants in small groups non-overlapping routes (see <a href="fieldprotocol.html">Field protocol</a>) to use either eBird or paper-based methods that get transcribed to eBird after the count, allowing flexibility.</li>
+<li>Each team of one or more people birding independently use eBird to track their observations (see below and <a href="fieldprotocol.html">Field protocol</a>).</li>
+</ul>
+<section id="planning-your-areas-team-assignments" class="level5">
+<h5 data-anchor-id="planning-your-areas-team-assignments">Planning your area’s team assignments</h5>
+<ul>
+<li><p>Divide the count subareas into non-overlapping routes. These may correspond roughly to the concept of the ‘birdshed’ and form an area where you can likely keep track of raptors and large-birds. If you assign a large area to a team, this might be a set of connected ‘birdsheds’ that you’ll divide into smaller areas for lists by each habitat.</p></li>
+<li><p>Map these routes and define clear boundaries for forming ‘birdsheds’ distinct polygons.</p></li>
+<li><p>Color-code the routes or polygons to reduce confusion.</p></li>
+<li><p>Indicate on the map where to start and stop each eBird list (see <a href="fieldprotocol.html">Field protoco</a>l for more information).</p></li>
+<li><p>If you have existing eBird track data, use eBirdCBC to plot out the individual list areas.</p></li>
+<li><p>Build team assignments based on these color-coded polygons.</p></li>
+</ul>
+</section>
+</section>
+<section id="after-the-count" class="level4">
+<h4 data-anchor-id="after-the-count">After the count</h4>
+<ul>
+<li>Work with the team to review and correct each list’s data and <strong><em>ensure the final list is shared back to the the central eBird persona</em></strong>.</li>
+<li>This process can be a bit cumbersome: team leaders share the list to your eBird persona, you make corrections and share it back to the team leader who accept the list. If they make further corrections or add photographs, you need to have them <em>reshare</em> the list to your eBird persona to have the final data for compilation.</li>
+<li><strong><em>Combine all the lists</em></strong> and create and share a <a href="https://ebird.org/news/introducing-ebird-trip-reports">trip report</a> linked to the CBC, ensuring all participants’ checklists are included.</li>
+<li>Pro-tip, use your new eBird persona email to organize all the communication with your participants!</li>
+<li>Caution: Use your eBird persona only on the day of the count or during count week. It is specifically for the CBC to aggregate all data from each group or participant’s separate eBird lists.</li>
+</ul>
 </section>
 <section id="data-integration" class="level4">
 <h4 data-anchor-id="data-integration">Data Integration</h4>
-<ol type="1">
+<ul>
 <li>Copy the trip report URL and paste it into the eBirdCBC tool.</li>
 <li>Log into eBird using the shared eBird persona credentials.</li>
 <li>The tool automatically gathers tracks and species data from all associated eBird checklists.</li>
-</ol>
+</ul>
 </section>
 <section id="compilation" class="level4">
 <h4 data-anchor-id="compilation">Compilation</h4>
-<ol type="1">
+<ul>
 <li>Use <strong>Species Mode</strong> in the eBirdCBC tool to review counts species-by-species.</li>
 <li>Identify overlapping counts visually using tracks and assign group numbers.</li>
 <li>Apply the <strong>MAX-SUM™ algorithm</strong>:
@@ -199,33 +253,20 @@ ul.task-list li input[type="checkbox"] {
 </ul></li>
 <li>Exclude erroneous or unwanted data using the “Delete Group” feature.</li>
 <li>Save (frequently) the final results.</li>
-</ol>
+</ul>
 </section>
 <section id="export" class="level4">
 <h4 data-anchor-id="export">Export</h4>
-<ol type="1">
+<ul>
 <li>Generate a comprehensive CSV report with species counts and grouped checklists.</li>
 <li>We generally use a spreadsheet to link eBirdCBC csv output to the compilers spreadsheet input.</li>
 <li>Then we share that data with compilers.</li>
 <li>We an upload the data back into the app for review.</li>
-</ol>
-</section>
-</section>
-<section id="key-benefits" class="level3">
-<h3 data-anchor-id="key-benefits">Key Benefits</h3>
-<ul>
-<li><strong>Efficiency</strong>: Simplifies data compilation for CBC organizers.</li>
-<li><strong>Engagement</strong>: Attracts younger participants by integrating with familiar digital tools.</li>
-<li><strong>Reproducibility</strong>: Creates a clear audit trail for count data, enhancing scientific value.</li>
 </ul>
-</section>
-<section id="why-ebirdcbc-matters" class="level3">
-<h3 data-anchor-id="why-ebirdcbc-matters">Why eBirdCBC Matters</h3>
-<p>CBCs are one of the longest-running community science projects, offering valuable insights into bird populations over time. By modernizing this tradition with eBirdCBC, we can: - Foster greater interest and participation. - Ensure data accuracy and integrity. - Provide tools for better understanding environmental changes.</p>
-<p>This project bridges the gap between tradition and innovation, making CBCs more accessible and impactful for generations to come.</p>
 <p>© 2015-2024 Durrell D. Kapan</p>
 
 
+</section>
 </section>
 </section>
 

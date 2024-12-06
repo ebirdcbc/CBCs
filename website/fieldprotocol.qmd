@@ -6,21 +6,23 @@ format:
         anchor-sections: false
 ---
 
+<!-- Before the count, Field protocol, After the count, Reminders: Do's-Don'ts, Hints, Tips & tricks -->
+
 # Protocol for eBirding a CBC!
 
 eBirdCBC uses [eBird](https://ebird.org/home) and [eBird tracks](https://ebird.org/news/ebird-ios-automatic-tracks-available/) to record all bird and participant data, automating the summary of territory counts for the Christmas Bird Count (CBC). This is combined with [eBird mobile](https://ebird.org/about/ebird-mobile/) and manual data collection throughout the day, including capturing effort details and sightings of raptors and large birds.
 
-### Count area leaders: how to prepare for an eBird-Powered Count Area before going to the field
+### Before the count
 
-1.  Divide the count subareas into non-overlapping routes.
+-   Familiarize yourself with this protocol.
 
-2.  Map these routes and define clear boundaries forming distinct polygons.
+-   Get your team assignment from your area leader.
 
-3.  Color-code the polygons to reduce confusion.
+-   Practice by birding in your assigned area during [count-week](https://www.audubon.org/conservation/science/christmas-bird-count/christmas-bird-count-compiler-resources#:~:text=Count%20week%20is%20defined%20as,Dec%2014%2DJan%205) the 3 days before or after your CBC if you can.
 
-4.  Build team assignments based on these color-coded polygons.
+-   Ensure you have [eBird Mobile](https://ebird.org/about/ebird-mobile/) working, Bring a spare battery for your phone, print out data forms provided by your area leader, prepare for a long-day birding.
 
-### CBC area participants: field details: eBird lists, tracks
+### Field protocol: eBird lists & tracks
 
 **For a given team**, designate a team member to use [eBird mobile](https://ebird.org/about/ebird-mobile/) to track team location and log birds using one of the following methods:
 
@@ -34,7 +36,7 @@ eBirdCBC uses [eBird](https://ebird.org/home) and [eBird tracks](https://ebird.o
 
 -   Either way, [eBird Mobile tracks](https://ebird.org/news/ebird-ios-automatic-tracks-available/) allow us to divide observations by route for us to automatically compile in eBird.
 
-### Keeping track of the details by hand
+### Keeping track of the effort and bird details by hand
 
 **Designate a second member** as a 'back-up' to log participants, effort, raptors & large flyover birds, and rare bird notes on paper to later transcribe the following into the eBird memo:
 
@@ -44,9 +46,9 @@ eBirdCBC uses [eBird](https://ebird.org/home) and [eBird tracks](https://ebird.o
 
 -   Exact start and stop times & locations for each list (sometimes eBird tracks fail).
 
--   Note the weather: cloud cover, temperature, wind (Beaufort scale) & precipitation (none, trace, light, medium, heavy).
+-   Note the weather: cloud cover, temperature, wind ([Beaufort scale](https://www.weather.gov/mfl/beaufort)) & precipitation (none, trace, light, medium, heavy).
 
-![Example of effort memo for a given list. Note everything needed to figure out the who, the where, the when, the weather, the raptors and large birds as well as the route.](images/effortmemo.jpg)
+![Example of effort memo for a given list. Note everything needed to figure out the who, the where, the when, the weather, the raptors and large birds as well as the route. In this case the user employed [4-letter bird codes](https://www.birdpop.org/docs/misc/Alpha_codes_eng.pdf) to indicate the raptors: AMKE = American Kestrel, NOHA = Northern Harrier.](images/effortmemo.jpg)
 
 ### Raptors and Large Flying Birds
 
@@ -58,12 +60,12 @@ With raptors and other large mobile birds it is crucial to track for accurate co
 
 -   Add this information to species comments in eBird after the count.
 
--   These data help prevent double-counting across subareas and are required for compilation.
+-   These data help prevent double-counting across subareas and are required by CBC compilers.
 
 ### Example Table for Raptors and Large Birds
 
 |                  |                    |      |                  |       |      |         |                                               |
-|--------|--------|--------|--------|--------|--------|--------|---------------|
+|------------------|--------------------|------|------------------|-------|------|---------|-----------------------------------------------|
 | Species          | Location           | Time | Flight direction | Age   | Sex  | Plumage | Notes                                         |
 | Golden Eagle     | M-ranch entry road | 0915 | NE               | Adult | NA   | NA      | This bird was flying high and fast.           |
 | Northern Harrier | M-ranch entry road | 0920 | N                | Adult | Male | NA      | Harrying low flying into the Yellow territory |
@@ -76,21 +78,23 @@ With raptors and other large mobile birds it is crucial to track for accurate co
 
 -   **Start a new eBird list** with new metadata for any changes in team membership. 
 
--   **eBird lists** will help us keep track of **total party miles** (one-way distance) and **total party hours** (nearest minute).
+-   **eBird lists** will help us keep track of **birds** AND CBC effort data: **total party miles** (one-way distance) and **total party hours** (nearest minute).
 
 -   **Document** **Rare Birds and put this documentation on paper and into your eBird lists:** [tips for documenting unusual observations](https://ebird.freshdesk.com/en/support/solutions/articles/48000803130).
 
 -   **Photographs**: Photos and/or audio recordings of diagnostic vocalizations are the best evidence of a rare bird. Photos are preferably of good quality showing diagnostic features.
 
--  **Upload and Share**: Last but not least--after your eBird lists are all set and uploaded to eBird, share them with your area leader's persona using the share function either from eBird mobile, or from the your eBird list on the web interface.  If they ask you to correct something, do so and RESHARE back to their eBird persona.
+### After the count:
 
-### Reminders
+-   **Upload and Share**: Last but not least--after your eBird lists are all set and uploaded to eBird, share them with your area leader's 'area persona' (the eBird username that the area leader uses to aggregate all the day's lists) using the share function either from eBird mobile, or from the your eBird list on the web interface. If they ask you to correct something, do so and RESHARE back to their eBird persona.
 
--   Each team covers their assigned route/polygon starting at sunrise early in the day.
+### Reminders: Do's, Hints, Tips & tricks, Don'ts
 
--   Create a new eBird list for each unique count area (polygon) with eBird tracks enabled. This *forms* the basis for both bird observations and CBC effort data (see below for hints on manual data collection).
+-   Each team covers their assigned route/polygon starting at sunrise early in the day. If you then traverse another team's area, or a part of it, start a new list following their area/list assignments.
 
--   For large polygons, create multiple lists, especially when moving from one habitat to another or when you have passed out of an area (a 'birdshed') where you cannot track the larger birds you just counted any more.
+-   Create a new eBird list for each location your area leader suggests, such as for each unique habitat within your ‘birdshed’ or count area along your route or polygon, with eBird tracks enabled. This serves as the foundation for both bird observations and CBC effort data (see below for hints on manual data collection).
+
+-   For large areas or polygons, don't be afraid to create multiple lists, especially when transitioning between habitats or exiting a ‘birdshed’ where larger birds can no longer be tracked.
 
 -   Transcribe eBird data and manual effort notes into eBird list comments. Put raptor details into the species comments.
 
@@ -98,6 +102,8 @@ With raptors and other large mobile birds it is crucial to track for accurate co
 
 -   Record birds seen between polygons in the species comments with relevant details.
 
--   Do not include birds seen by people outside your CBC party.
+-   When retracing your steps, don't just count 'new' birds, make a complete list and let the **MAX-SUM™ algorithm** do the work of figuring out new birds and high-counts.
+
+-   Do not include birds seen by people outside your CBC party *unless you see them too!*
 
 © 2015-2024 Durrell D. Kapan

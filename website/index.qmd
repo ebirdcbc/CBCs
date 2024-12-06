@@ -8,41 +8,47 @@ format:
 
 # eBirdCBC Project
 
-Welcome to the eBirdCBC project, a hybrid approach to modernizing the [Christmas Bird Count](https://www.audubon.org/community-science/christmas-bird-count) (CBC) using [eBird](https://ebird.org/home) data and tools. Explore how we blend traditional methods with digital tools to enhance accuracy, repeatability, increase CBC participation, and the long-term value for bird conservation efforts.
-
-### Goals
-
--   **Encourage Participation**: Increase engagement by providing easier and more accessible data collection tools for bird counters.
--   **Improve Accuracy**: Address challenges such as overlapping count areas and inconsistent methods with a robust data integration system.
--   **Preserve Knowledge**: Ensure long-term reproducibility and documentation of count methods and results.
+Welcome to the eBirdCBC project, a hybrid approach to modernizing the [Christmas Bird Count](https://www.audubon.org/community-science/christmas-bird-count) (CBC) using [eBird](https://ebird.org/home) data and tools. Explore how we blend traditional methods with digital tools to enhance accuracy, repeatability, increase CBC participation, and the long-term value for bird conservation efforts. Note: this project builds upon eBird best practices for [ebirding on christmas bird counts](https://ebird.org/news/ebirding-on-christmas-bird-counts) so be sure to review those.
 
 ### Why Use eBird for Christmas Bird Counts?
 
-Integrating eBird into CBCs simplifies data compilation, captures local knowledge, and improves accuracy. By combining eBird lists and the MAX-SUM™ algorithm, we:
+Integrating eBird into CBCs boosts participation, simplifies compilation, improves accuracy and captures local knowledge:
 
--   Eliminate double-counting and confusion.
+-   **Encourage Participation**: We aim to *increase engagement* by encouraging eBirders to participate in CBCs and providing easier and more accessible tools for area leaders to integrate eBird data.
 
--   Enhance repeatability and data reliability.
+-   **Simplify data compilation:** Address challenges such as overlapping count areas and inconsistent methods with a *robust data integration system*.
 
--   Preserve cultural and local knowledge about count areas and team deployment.
+-   **Improve Accuracy**: This system that *eliminates double-counting and confusion* when birders traverse the same areas or see the same raptors while enhancing count repeatability and data reliability.
+
+-   **Preserve Knowledge**: Ensure long-term reproducibility and documentation of count methods and results thereby preserving cultural and local knowledge about count areas and team deployment.
 
 This hybrid approach ensures the long-term success of the CBC as the world’s longest-running community science project while adapting to the information age.
 
-### About the eBirdCBC program
-
-The eBirdCBC program helps streamline the process of compiling data for Christmas Bird Counts (CBCs). Leveraging eBird’s data collection and tracking capabilities, eBirdCBC integrates these tools with an innovative algorithm to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs.
-
 ### Explore the Site
 
--   [**eBirdCBC methods**](eBirdCBCmethods.html "eBirdCBC methods")**:** Learn about the project and program methods, and the MAX-SUM™ algorithm we developed to eliminate double-counting and improve data accuracy.
+-   eBirders and CBC participants can start by reviewing the [Field Protocol](fieldprotocol.html)**:** Dive into detailed guidelines on how to prepare for your count, collect eBird data and document effort and raptors, and how to capture and share these data with your area leader after your CBC.
 
--   [Field Protocol](fieldprotocol.html)**:** Dive into detailed guidelines on how to prepare, collect, and transcribe data during your CBC.
+-   Area leaders please review the [**eBirdCBC methods**](eBirdCBCmethods.html "eBirdCBC methods")**:** Learn about the project and program methods, and the MAX-SUM™ algorithm we developed to eliminate double-counting and improve data accuracy.
 
--   **Real-World Example: [Abbotts Lagoon](abbottslagoon.html):** Abbotts Lagoon, with its rich diversity of bird species, always attracts all our counters to the lagoon at the end of the day. This example showcases how careful data management combined with the MAX-SUM™ algorithm ensures accurate counts by effectively reducing double-counting and improving overall precision.
+-   **Real-World Example: [Abbotts Lagoon](abbottslagoon.html):** Abbotts Lagoon, with its rich diversity of bird species, always attracts all our counters to the lagoon at the end of the day. This was the original motivation to build eBird CBC to automate application of the MAX-SUM™ algorithm to ensure accurate counts by effectively reducing double-counting and improving overall precision.
 
--   **Real-World Example: [Tennessee Valley](tennesseevalley.html):** Discover another real-world example of implementing eBirdCBC in the Southern Marin CBC circle.
+-   **Real-World Example: [Tennessee Valley](tennesseevalley.html):** Discover another real-world example of implementing eBirdCBC in the Southern Marin CBC circle where you can see a vareity of 'birdshed' areas divided into different lists. Get your team assignments here!
+
+-   **The eBirdCBC software program** helps streamline the process of compiling data for Christmas Bird Counts (CBCs). Leveraging eBird’s data collection and tracking capabilities, eBirdCBC integrates these tools with an innovative MAX-SUM™ algorithm to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs. See [Using the program](usingtheprogram.html) for details on how to download and utilize the software.
 
 -   **For questions** see our [Contact page](contact.qmd).
+
+### Key Benefits
+
+-   **Efficiency**: Simplifies data compilation for CBC organizers.
+-   **Engagement**: Attracts younger participants by integrating with familiar digital tools.
+-   **Reproducibility**: Creates a clear audit trail for count data, enhancing scientific value.
+
+### Why eBirdCBC Matters
+
+CBCs are one of the longest-running community science projects, offering valuable insights into bird populations over time. By modernizing this tradition with eBirdCBC, we can: - Foster greater interest and participation. - Ensure data accuracy and integrity. - Provide tools for better understanding environmental changes.
+
+This project bridges the gap between tradition and innovation, making CBCs more accessible and impactful for generations to come.
 
 All of this site is © 2015-2024 Durrell D. Kapan, please [contact me](contact.qmd) if you would like to duplicate or modify these materials in any way.
 

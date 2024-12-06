@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>eBirdCBC - Home</title>
+<title>eBirdCBC - Using the eBirdCBC program</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -82,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -154,13 +154,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#ebirdcbc-project" id="toc-ebirdcbc-project" class="nav-link active" data-scroll-target="#ebirdcbc-project">eBirdCBC Project</a>
+  <li><a href="#using-the-ebirdcbc-program" id="toc-using-the-ebirdcbc-program" class="nav-link active" data-scroll-target="#using-the-ebirdcbc-program">Using the eBirdCBC program</a>
   <ul class="collapse">
-  <li><a href="#why-use-ebird-for-christmas-bird-counts" id="toc-why-use-ebird-for-christmas-bird-counts" class="nav-link" data-scroll-target="#why-use-ebird-for-christmas-bird-counts">Why Use eBird for Christmas Bird Counts?</a></li>
-  <li><a href="#explore-the-site" id="toc-explore-the-site" class="nav-link" data-scroll-target="#explore-the-site">Explore the Site</a></li>
-  <li><a href="#key-benefits" id="toc-key-benefits" class="nav-link" data-scroll-target="#key-benefits">Key Benefits</a></li>
-  <li><a href="#why-ebirdcbc-matters" id="toc-why-ebirdcbc-matters" class="nav-link" data-scroll-target="#why-ebirdcbc-matters">Why eBirdCBC Matters</a></li>
-  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
+  <li><a href="#ebirdcbc-overview" id="toc-ebirdcbc-overview" class="nav-link" data-scroll-target="#ebirdcbc-overview"><strong>eBirdCBC Overview</strong></a></li>
+  <li><a href="#getting-started" id="toc-getting-started" class="nav-link" data-scroll-target="#getting-started">Getting started</a></li>
+  <li><a href="#step-by-step-use" id="toc-step-by-step-use" class="nav-link" data-scroll-target="#step-by-step-use">Step-by-step use</a></li>
+  <li><a href="#features" id="toc-features" class="nav-link" data-scroll-target="#features">Features</a></li>
+  <li><a href="#troubleshooting-tips-and-tricks" id="toc-troubleshooting-tips-and-tricks" class="nav-link" data-scroll-target="#troubleshooting-tips-and-tricks">Troubleshooting &amp; tips and tricks</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -170,7 +170,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Home</h1>
+<h1 class="title">Using the eBirdCBC program</h1>
 </div>
 
 
@@ -185,47 +185,101 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="ebirdcbc-project" class="level1">
-<h1>eBirdCBC Project</h1>
-<p>Welcome to the eBirdCBC project, a hybrid approach to modernizing the <a href="https://www.audubon.org/community-science/christmas-bird-count">Christmas Bird Count</a> (CBC) using <a href="https://ebird.org/home">eBird</a> data and tools. Explore how we blend traditional methods with digital tools to enhance accuracy, repeatability, increase CBC participation, and the long-term value for bird conservation efforts. Note: this project builds upon eBird best practices for <a href="https://ebird.org/news/ebirding-on-christmas-bird-counts">ebirding on christmas bird counts</a> so be sure to review those.</p>
-<section id="why-use-ebird-for-christmas-bird-counts" class="level3">
-<h3 data-anchor-id="why-use-ebird-for-christmas-bird-counts">Why Use eBird for Christmas Bird Counts?</h3>
-<p>Integrating eBird into CBCs boosts participation, simplifies compilation, improves accuracy and captures local knowledge:</p>
+<section id="using-the-ebirdcbc-program" class="level1">
+<h1>Using the eBirdCBC program</h1>
+<section id="ebirdcbc-overview" class="level3">
+<h3 data-anchor-id="ebirdcbc-overview"><strong>eBirdCBC Overview</strong></h3>
+<p>eBirdCBC is an Electron app designed to use eBird best practices for generating accurate CBC counts for a given area. It displays a map of checklists and allows users to group them, employing the <strong>MAX-SUM™ algorithm,</strong> thereby avoiding double-counting the same birds.</p>
+</section>
+<section id="getting-started" class="level3">
+<h3 data-anchor-id="getting-started">Getting started</h3>
+<p>These are paraphrased from the instructions <a href="https://github.com/ddkapan/eBirdCBC/blob/main/README.md#ebirdcbc">here</a>.</p>
+<p><strong>Installation</strong></p>
+<p>• Download: Visit the <a href="https://github.com/ddkapan/eBirdCBC/releases/">releases page</a> to download the app for your operating system. We are using a precompiled disk image for ARM macs. For other platforms you need to access the source-code which must be compiled to work on your non-ARM machine. Due to the diversity of computer platforms, we don’t support trouble-shooting this process, but if you are computer savvy you shouldn’t have too much trouble. If you do find a bug or major issue you can submit a <a href="https://github.com/ddkapan/eBirdCBC/issues">issue</a> via GitHub.</p>
+<p>• Trust the App: Since the app isn’t signed, you’ll need to grant permission to run it.</p>
+<p>• Browser Requirement: Ensure Chrome or Chromium is installed.</p>
+</section>
+<section id="step-by-step-use" class="level3">
+<h3 data-anchor-id="step-by-step-use">Step-by-step use</h3>
+<ol type="1">
+<li>Input Data:</li>
+</ol>
 <ul>
-<li><p><strong>Encourage Participation</strong>: We aim to <em>increase engagement</em> by encouraging eBirders to participate in CBCs and providing easier and more accessible tools for area leaders to integrate eBird data.</p></li>
-<li><p><strong>Simplify data compilation:</strong> Address challenges such as overlapping count areas and inconsistent methods with a <em>robust data integration system</em>.</p></li>
-<li><p><strong>Improve Accuracy</strong>: This system that <em>eliminates double-counting and confusion</em> when birders traverse the same areas or see the same raptors while enhancing count repeatability and data reliability.</p></li>
-<li><p><strong>Preserve Knowledge</strong>: Ensure long-term reproducibility and documentation of count methods and results thereby preserving cultural and local knowledge about count areas and team deployment.</p></li>
-</ul>
-<p>This hybrid approach ensures the long-term success of the CBC as the world’s longest-running community science project while adapting to the information age.</p>
-</section>
-<section id="explore-the-site" class="level3">
-<h3 data-anchor-id="explore-the-site">Explore the Site</h3>
+<li>Copy the trip report URL and paste it into the eBirdCBC tool.
 <ul>
-<li><p>eBirders and CBC participants can start by reviewing the <a href="fieldprotocol.html">Field Protocol</a><strong>:</strong>&nbsp;Dive into detailed guidelines on how to prepare for your count, collect eBird data and document effort and raptors, and how to capture and share these data with your area leader after your CBC.</p></li>
-<li><p>Area leaders please review the <a href="eBirdCBCmethods.html" title="eBirdCBC methods"><strong>eBirdCBC methods</strong></a><strong>:</strong>&nbsp;Learn about the project and program methods, and the MAX-SUM™ algorithm we developed to eliminate double-counting and improve data accuracy.</p></li>
-<li><p><strong>Real-World Example: <a href="abbottslagoon.html">Abbotts Lagoon</a>:</strong>&nbsp;Abbotts Lagoon, with its rich diversity of bird species, always attracts all our counters to the lagoon at the end of the day. This was the original motivation to build eBird CBC to automate application of the MAX-SUM™ algorithm to ensure accurate counts by effectively reducing double-counting and improving overall precision.</p></li>
-<li><p><strong>Real-World Example: <a href="tennesseevalley.html">Tennessee Valley</a>:</strong>&nbsp;Discover another real-world example of implementing eBirdCBC in the Southern Marin CBC circle where you can see a vareity of ‘birdshed’ areas divided into different lists. Get your team assignments here!</p></li>
-<li><p><strong>The eBirdCBC software program</strong> helps streamline the process of compiling data for Christmas Bird Counts (CBCs). Leveraging eBird’s data collection and tracking capabilities, eBirdCBC integrates these tools with an innovative MAX-SUM™ algorithm to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs. See <a href="usingtheprogram.html">Using the program</a> for details on how to download and utilize the software.</p></li>
-<li><p><strong>For questions</strong> see our <a href="./contact.html">Contact page</a>.</p></li>
+<li>-or-</li>
+</ul></li>
+<li>Enter checklist IDs separated by commas or input a trip report.</li>
+<li>Click Submit to add them to the database.</li>
+<li>Log into eBird using the shared eBird persona credentials via the prompted Chrome window to allow the app to retrieve tracks. The window will close automatically when finished.</li>
+<li>The tool automatically gathers tracks and species data from all associated eBird checklists.</li>
 </ul>
-</section>
-<section id="key-benefits" class="level3">
-<h3 data-anchor-id="key-benefits">Key Benefits</h3>
+<ol start="2" type="1">
+<li>View and Group Checklists:</li>
+</ol>
 <ul>
-<li><strong>Efficiency</strong>: Simplifies data compilation for CBC organizers.</li>
-<li><strong>Engagement</strong>: Attracts younger participants by integrating with familiar digital tools.</li>
-<li><strong>Reproducibility</strong>: Creates a clear audit trail for count data, enhancing scientific value.</li>
+<li>Checklists and tracks appear on the map.</li>
+<li>Click on points to view details.</li>
+<li>Group checklists covering the same areas to avoid double-counting. High counts from grouped checklists are automatically taken.</li>
+</ul>
+<ol start="3" type="1">
+<li>Species View for Precision:</li>
+</ol>
+<ul>
+<li>Use Species View to group specific species across checklists (e.g., ensure one Long-tailed Duck seen on three lists is counted only once).</li>
+<li>The total count for grouped species is displayed in the dropdown menu.</li>
+</ul>
+<ol start="4" type="1">
+<li>Export and Manage Data:</li>
+</ol>
+<ul>
+<li>Click Get Species to export a CSV of species and counts.</li>
+<li>DO NOT Click Clear to reset the database (this action cannot be undone) unless you want to start over.</li>
+<li>Share data with the csv, user a spreadsheet to connect it to your compiler’s submission spreadsheet.</li>
+<li>Share the database by copying the database.db file from the ~/Documents/eBirdCBC/ folder to another computer.</li>
+</ul>
+<section id="final-compilation" class="level4">
+<h4 data-anchor-id="final-compilation">Final Compilation</h4>
+<ul>
+<li>If you find errors in the lists or need detailed memos for the trip or species, ask your eBirders to fix those lists and reshare them with your eBird area persona.</li>
+<li>Then use <strong>Species Mode</strong> in the eBirdCBC tool to review counts species-by-species.</li>
+<li>Identify overlapping counts visually using tracks and assign group numbers.</li>
+<li>Apply the <strong>MAX-SUM™ algorithm</strong>:
+<ul>
+<li>Take the maximum count for overlapping stationary birds.</li>
+<li>Sum non-overlapping counts.</li>
+</ul></li>
+<li>Exclude erroneous or unwanted data using the “Delete Group” feature.</li>
+<li>Save (frequently) the final results.</li>
 </ul>
 </section>
-<section id="why-ebirdcbc-matters" class="level3">
-<h3 data-anchor-id="why-ebirdcbc-matters">Why eBirdCBC Matters</h3>
-<p>CBCs are one of the longest-running community science projects, offering valuable insights into bird populations over time. By modernizing this tradition with eBirdCBC, we can: - Foster greater interest and participation. - Ensure data accuracy and integrity. - Provide tools for better understanding environmental changes.</p>
-<p>This project bridges the gap between tradition and innovation, making CBCs more accessible and impactful for generations to come.</p>
-<p>All of this site is © 2015-2024 Durrell D. Kapan, please <a href="./contact.html">contact me</a> if you would like to duplicate or modify these materials in any way.</p>
+<section id="tips-for-export" class="level4">
+<h4 data-anchor-id="tips-for-export">Tips for Export</h4>
+<ul>
+<li>Generate a comprehensive CSV report with species counts and grouped checklists.</li>
+<li>We generally use a spreadsheet to link eBirdCBC csv output to the compilers spreadsheet input.</li>
+<li>Then we share that data with compilers.</li>
+<li>Using archived databases you can upload the data back into the app for future review.</li>
+</ul>
 </section>
-<section id="section" class="level3">
-<h3 data-anchor-id="section"></h3>
+</section>
+<section id="features" class="level3">
+<h3 data-anchor-id="features">Features</h3>
+<ul>
+<li>Interactivity with a map-view of every eBird checklist</li>
+<li>Export CSV data export</li>
+<li>Share or Archive the database for future reference</li>
+</ul>
+</section>
+<section id="troubleshooting-tips-and-tricks" class="level3">
+<h3 data-anchor-id="troubleshooting-tips-and-tricks">Troubleshooting &amp; tips and tricks</h3>
+<ul>
+<li><p>DO NOT Click Clear to reset the database (this action cannot be undone) unless you want to start over.</p></li>
+<li><p>Look at the most up-to-date instructions <a href="https://github.com/ddkapan/eBirdCBC/blob/main/README.md#ebirdcbc">here</a>.</p></li>
+<li><p>If you find a programming error, please log the <a href="https://github.com/ddkapan/eBirdCBC/issues">issue</a> via GitHub.</p></li>
+<li><p><a href="./contact.html">Contact us</a> if you have any questions or suggestions, or you would like to improve the code-base by joining the GitHub project.</p>
+<p>© 2015-2024 Durrell D. Kapan</p></li>
+</ul>
 
 
 </section>

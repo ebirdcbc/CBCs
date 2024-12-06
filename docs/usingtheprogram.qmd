@@ -1,0 +1,87 @@
+---
+title: "Using the eBirdCBC program"
+format: 
+    html:
+        css: index.css
+        anchor-sections: false
+---
+
+# Using the eBirdCBC program
+
+### **eBirdCBC Overview**
+
+eBirdCBC is an Electron app designed to use eBird best practices for generating accurate CBC counts for a given area. It displays a map of checklists and allows users to group them, employing the **MAX-SUM™ algorithm,** thereby avoiding double-counting the same birds.
+
+### Getting started
+
+These are paraphrased from the instructions [here](https://github.com/ddkapan/eBirdCBC/blob/main/README.md#ebirdcbc).
+
+**Installation**
+
+• Download: Visit the [releases page](https://github.com/ddkapan/eBirdCBC/releases/) to download the app for your operating system. We are using a precompiled disk image for ARM macs. For other platforms you need to access the source-code which must be compiled to work on your non-ARM machine. Due to the diversity of computer platforms, we don't support trouble-shooting this process, but if you are computer savvy you shouldn't have too much trouble. If you do find a bug or major issue you can submit a [issue](https://github.com/ddkapan/eBirdCBC/issues) via GitHub.
+
+• Trust the App: Since the app isn’t signed, you’ll need to grant permission to run it.
+
+• Browser Requirement: Ensure Chrome or Chromium is installed.
+
+### Step-by-step use
+
+1.  Input Data:
+
+-   Copy the trip report URL and paste it into the eBirdCBC tool.
+    -   -or-
+-   Enter checklist IDs separated by commas or input a trip report.
+-   Click Submit to add them to the database.
+-   Log into eBird using the shared eBird persona credentials via the prompted Chrome window to allow the app to retrieve tracks. The window will close automatically when finished.
+-   The tool automatically gathers tracks and species data from all associated eBird checklists.
+
+2.  View and Group Checklists:
+
+-   Checklists and tracks appear on the map.
+-   Click on points to view details.
+-   Group checklists covering the same areas to avoid double-counting. High counts from grouped checklists are automatically taken.
+
+3.  Species View for Precision:
+
+-   Use Species View to group specific species across checklists (e.g., ensure one Long-tailed Duck seen on three lists is counted only once).
+-   The total count for grouped species is displayed in the dropdown menu.
+
+4.  Export and Manage Data:
+
+-   Click Get Species to export a CSV of species and counts.
+-   DO NOT Click Clear to reset the database (this action cannot be undone) unless you want to start over.
+-   Share data with the csv, user a spreadsheet to connect it to your compiler's submission spreadsheet.
+-   Share the database by copying the database.db file from the \~/Documents/eBirdCBC/ folder to another computer.
+
+#### Final Compilation
+
+-   If you find errors in the lists or need detailed memos for the trip or species, ask your eBirders to fix those lists and reshare them with your eBird area persona.
+-   Then use **Species Mode** in the eBirdCBC tool to review counts species-by-species.
+-   Identify overlapping counts visually using tracks and assign group numbers.
+-   Apply the **MAX-SUM™ algorithm**:
+    -   Take the maximum count for overlapping stationary birds.
+    -   Sum non-overlapping counts.
+-   Exclude erroneous or unwanted data using the "Delete Group" feature.
+-   Save (frequently) the final results.
+
+#### Tips for Export
+
+-   Generate a comprehensive CSV report with species counts and grouped checklists.
+-   We generally use a spreadsheet to link eBirdCBC csv output to the compilers spreadsheet input.
+-   Then we share that data with compilers.
+-   Using archived databases you can upload the data back into the app for future review.
+
+### Features
+
+-   Interactivity with a map-view of every eBird checklist
+-   Export CSV data export
+-   Share or Archive the database for future reference
+
+### Troubleshooting & tips and tricks
+
+-   DO NOT Click Clear to reset the database (this action cannot be undone) unless you want to start over.
+-   Look at the most up-to-date instructions [here](https://github.com/ddkapan/eBirdCBC/blob/main/README.md#ebirdcbc).
+-   If you find a programming error, please log the [issue](https://github.com/ddkapan/eBirdCBC/issues) via GitHub.
+-   [Contact us](contact.qmd) if you have any questions or suggestions, or you would like to improve the code-base by joining the GitHub project.
+
+    © 2015-2024 Durrell D. Kapan
