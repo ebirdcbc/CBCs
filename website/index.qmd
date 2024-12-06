@@ -34,7 +34,7 @@ The eBirdCBC program helps streamline the process of compiling data for Christma
 
 ### Explore the Site
 
--   [**eBirdCBC methods**](overview.html "eBirdCBC methods")**:** Learn about the project and program methods, and the MAX-SUM™ algorithm we developed to eliminate double-counting and improve data accuracy.
+-   [**eBirdCBC methods**](eBirdCBCmethods.html "eBirdCBC methods")**:** Learn about the project and program methods, and the MAX-SUM™ algorithm we developed to eliminate double-counting and improve data accuracy.
 
 -   [Field Protocol](fieldprotocol.html)**:** Dive into detailed guidelines on how to prepare, collect, and transcribe data during your CBC.
 
