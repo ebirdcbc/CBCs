@@ -42,8 +42,6 @@ eBirdCBC uses [eBird](https://ebird.org/home) and [eBird tracks](https://ebird.o
 
 [![Northern Harrier flying past at Tennessee Valley CBC, © D. Kapan 2017](images/esc6382.jpeg)](images/esc6382.jpeg)
 
-[![Northern Harrier flying past at Tennessee Valley CBC, © D. Kapan 2017](images/esc6382.jpeg)](images/esc6382.jpeg)
-
 With raptors and other large mobile birds it is crucial to track for accurate counts and movement patterns:
 
 -   Record species, time, location, flight direction, age, sex, plumage, behavior, and other details.
@@ -54,7 +52,7 @@ With raptors and other large mobile birds it is crucial to track for accurate co
 ### Example Table for Raptors and Large Birds
 
 |                  |                    |      |                  |       |      |         |                                               |
-|---------|---------|---------|---------|---------|---------|---------|---------|
+|--------|--------|--------|--------|--------|--------|--------|---------------|
 | Species          | Location           | Time | Flight direction | Age   | Sex  | Plumage | Notes                                         |
 | Golden Eagle     | M-ranch entry road | 0915 | NE               | Adult | NA   | NA      | This bird was flying high and fast.           |
 | Northern Harrier | M-ranch entry road | 0920 | N                | Adult | Male | NA      | Harrying low flying into the Yellow territory |
