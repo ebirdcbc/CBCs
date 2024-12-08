@@ -14,7 +14,7 @@ eBirdCBC is an Electron app designed to use eBird best practices for generating 
 
 ### Getting started
 
-These are paraphrased from the instructions [here](https://github.com/ddkapan/eBirdCBC/blob/main/README.md#ebirdcbc).
+These are paraphrased from the instructions on the eBirdCBC development site [here](https://github.com/ddkapan/eBirdCBC/blob/main/README.md#ebirdcbc).
 
 **Installation**
 
@@ -80,8 +80,11 @@ These are paraphrased from the instructions [here](https://github.com/ddkapan/eB
 ### Troubleshooting & tips and tricks
 
 -   DO NOT Click Clear to reset the database (this action cannot be undone) unless you want to start over.
+
 -   Look at the most up-to-date instructions [here](https://github.com/ddkapan/eBirdCBC/blob/main/README.md#ebirdcbc).
+
 -   If you find a programming error, please log the [issue](https://github.com/ddkapan/eBirdCBC/issues) via GitHub.
+
 -   [Contact us](contact.qmd) if you have any questions or suggestions, or you would like to improve the code-base by joining the GitHub project.
 
     © 2015-2024 Durrell D. Kapan

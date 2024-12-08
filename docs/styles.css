@@ -12,7 +12,7 @@
     background-color: #243447; /* Dark blue-gray background */
     color: #ffffff;           /* White text for contrast */
     height: 100px;            /* Adjust height for better spacing */
-    background-image: url('images/IMG_6067.jpeg'); /* Add your background photo */
+    background-image: url('images/img_6067.jpeg'); /* Add your background photo */
     background-size: cover;   /* Make the image cover the navbar */
     background-position: center; /* Center the background image */
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* Optional: Add a shadow for better text visibility */
@@ -36,7 +36,7 @@
 }
 
 .navbar-brand {
-    background-image: url(images/_ESC6101.jpeg);
+    background-image: url(images/_esc6101.jpeg);
     background-size: 150px, 150px;
     background-position: left;
     background-repeat: no-repeat;
