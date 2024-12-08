@@ -40,13 +40,10 @@ eBirdCBC uses [eBird](https://ebird.org/home) and [eBird tracks](https://ebird.o
 
 ![Example of effort memo for a given list. Note everything needed to figure out the who, the where, the when, the weather, the raptors and large birds as well as the route. In this case the user employed [4-letter bird codes](https://www.birdpop.org/docs/misc/Alpha_codes_eng.pdf) to indicate the raptors: AMKE = American Kestrel, NOHA = Northern Harrier.](images/effortmemo.jpg)
 
-![Northern Harrier flying past at Tennessee Valley CBC, © D. Kapan 2017](images/_esc6382.jpeg){width="100"}
+![Northern Harrier flying past at Tennessee Valley CBC, © D. Kapan 2017](images/_esc6382.jpeg)
 
 ::: wide-image
-![](images/_esc6382.jpeg){width="100"}
-::: image-caption
-Northern Harrier flying past at Tennessee Valley CBC, © D. Kapan 2017
-:::
+![Northern Harrier flying past at Tennessee Valley CBC, © D. Kapan 2017](images/_esc6382.jpeg){width="100"}
 :::
 
 With raptors and other large mobile birds it is crucial to track for accurate counts and movement patterns:
