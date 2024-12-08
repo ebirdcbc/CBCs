@@ -162,6 +162,7 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#max-sum-algorithm" id="toc-max-sum-algorithm" class="nav-link" data-scroll-target="#max-sum-algorithm"><strong>MAX-SUM algorithm</strong></a></li>
   <li><a href="#count-area-leaders-how-to-prepare-for-an-ebird-powered-count-area-before-going-to-the-field" id="toc-count-area-leaders-how-to-prepare-for-an-ebird-powered-count-area-before-going-to-the-field" class="nav-link" data-scroll-target="#count-area-leaders-how-to-prepare-for-an-ebird-powered-count-area-before-going-to-the-field"><strong>Count area leaders: how to prepare for an eBird-Powered Count Area before going to the field</strong></a></li>
+  <li><a href="#using-the-ebird-cbc-program-quick-start" id="toc-using-the-ebird-cbc-program-quick-start" class="nav-link" data-scroll-target="#using-the-ebird-cbc-program-quick-start">Using the eBird CBC program: quick start</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -194,13 +195,7 @@ ul.task-list li input[type="checkbox"] {
 <p>The MAX-SUM algorithm is a way to make sure we count birds accurately during a Christmas Bird Count, especially when multiple teams will traverse the same location and might see the same birds. Here’s how it works in simple terms:</p>
 <ol type="1">
 <li><strong>When teams cross the same area and <em>Birds Stay Still</em></strong>: If two teams report the same stationary birds (like a sparrows from the same flock, or herons standing in the same pond), we take the highest number of that species reported by any team. To do this we apply the function <strong>MAX</strong> to the birds in overlapping lists. This avoids double-counting but still gives us the best estimate.</li>
-</ol>
-<!-- -->
-<ol start="2" type="1">
 <li><strong>When teams are in separate areas but the <em>Species Moves Around</em></strong>: For birds that are flying or moving between areas (like swans or hawks), we still take the <strong>MAX for that species</strong> from the numbers reported by different teams if we can determine from the <em>details in the observations</em> (see field protocol) that they are the same birds.</li>
-</ol>
-<!-- -->
-<ol start="3" type="1">
 <li><strong>When teams are in separate areas and the <em>Species are Not Moving Around</em></strong>: For birds that are stationary we combine lists from different areas using the <strong>SUM function for that species</strong> from the numbers reported by different teams. This is usually true for all small bird species that do not move between lists for different subareas. A few exceptions might be high flyover flocks of finch family birds or Cedar Waxwings.</li>
 </ol>
 <p>In short: The eBirdCBC program <strong>takes the MAX for overlapping counts</strong> and <strong>SUM the counts for non-overlapping areas</strong>. This keeps the bird count as accurate as possible without overestimating or underestimating the numbers.</p>
@@ -237,9 +232,14 @@ ul.task-list li input[type="checkbox"] {
 <li>Caution: Use your eBird persona only on the day of the count or during count week. It is specifically for the CBC to aggregate all data from each group or participant’s separate eBird lists.</li>
 </ul>
 </section>
+</section>
+<section id="using-the-ebird-cbc-program-quick-start" class="level3">
+<h3 data-anchor-id="using-the-ebird-cbc-program-quick-start">Using the eBird CBC program: quick start</h3>
 <section id="data-integration" class="level4">
 <h4 data-anchor-id="data-integration">Data Integration</h4>
 <ul>
+<li>For installation and detailed instructions see: <a href="usingtheprogram.html">Using the eBirdCBC program</a></li>
+<li>Open eBirdCBC</li>
 <li>Copy the trip report URL and paste it into the eBirdCBC tool.</li>
 <li>Log into eBird using the shared eBird persona credentials.</li>
 <li>The tool automatically gathers tracks and species data from all associated eBird checklists.</li>

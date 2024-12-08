@@ -12,7 +12,7 @@ format:
 
 # eBirdCBC Project
 
-Welcome to the eBirdCBC project, a hybrid approach to modernizing the [Christmas Bird Count](https://www.audubon.org/community-science/christmas-bird-count) (CBC) using [eBird](https://ebird.org/home) data and tools. Explore how we blend traditional methods with digital tools to enhance accuracy, repeatability, increase CBC participation, and the long-term value for bird conservation efforts. Note: this project builds upon eBird best practices for [ebirding on Christmas Bird Counts](https://ebird.org/news/ebirding-on-christmas-bird-counts) so be sure to review those.
+Welcome to the eBirdCBC project, a hybrid approach to modernizing the [Christmas Bird Count](https://www.audubon.org/community-science/christmas-bird-count) (CBC) using [eBird](https://ebird.org/home) data and tools. Explore how we blend traditional methods with digital tools to enhance accuracy, repeatability, increase CBC participation, and the long-term value for bird conservation efforts. Note: this project builds upon eBird best practices for [eBirding on Christmas Bird Counts](https://ebird.org/news/ebirding-on-christmas-bird-counts) so be sure to review those.
 
 ### Why Use eBird for Christmas Bird Counts?
 

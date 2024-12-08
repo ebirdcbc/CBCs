@@ -15,13 +15,7 @@ eBirdCBC is a set of field methods (using [eBird](https://ebird.org/home)) and a
 The MAX-SUM algorithm is a way to make sure we count birds accurately during a Christmas Bird Count, especially when multiple teams will traverse the same location and might see the same birds. Here’s how it works in simple terms:
 
 1.  **When teams cross the same area and *Birds Stay Still***: If two teams report the same stationary birds (like a sparrows from the same flock, or herons standing in the same pond), we take the highest number of that species reported by any team. To do this we apply the function **MAX** to the birds in overlapping lists. This avoids double-counting but still gives us the best estimate.
-
-<!-- -->
-
 2.  **When teams are in separate areas but the *Species Moves Around***: For birds that are flying or moving between areas (like swans or hawks), we still take the **MAX for that species** from the numbers reported by different teams if we can determine from the *details in the observations* (see field protocol) that they are the same birds.
-
-<!-- -->
-
 3.  **When teams are in separate areas and the *Species are Not Moving Around***: For birds that are stationary we combine lists from different areas using the **SUM function for that species** from the numbers reported by different teams. This is usually true for all small bird species that do not move between lists for different subareas. A few exceptions might be high flyover flocks of finch family birds or Cedar Waxwings.
 
 In short: The eBirdCBC program **takes the MAX for overlapping counts** and **SUM the counts for non-overlapping areas**. This keeps the bird count as accurate as possible without overestimating or underestimating the numbers.
@@ -58,8 +52,12 @@ Below are the methods for area leaders including what to do before the count, ho
 -   Pro-tip, use your new eBird persona email to organize all the communication with your participants!
 -   Caution: Use your eBird persona only on the day of the count or during count week. It is specifically for the CBC to aggregate all data from each group or participant’s separate eBird lists.
 
+### Using the eBird CBC program: quick start
+
 #### Data Integration
 
+-   For installation and detailed instructions see: [Using the eBirdCBC program](usingtheprogram.html)
+-   Open eBirdCBC
 -   Copy the trip report URL and paste it into the eBirdCBC tool.
 -   Log into eBird using the shared eBird persona credentials.
 -   The tool automatically gathers tracks and species data from all associated eBird checklists.
