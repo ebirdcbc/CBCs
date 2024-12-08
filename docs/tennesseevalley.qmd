@@ -31,25 +31,19 @@ The Tennessee Valley subarea is part of the Southern Marin Christmas Bird Count 
 3.  **Tennessee Valley**:
 
     -   Teams split into two:
-
         -   **Haypress Team:** Covers trails through the north half of the valley (**#1**, **#5**, **#10**, **#11**-nursery, **#12**).
-
         -   **Lower Team:** Moves super early to focuses on trails through the south half of the valley (**#16**, **#17**, **#13**, and a seawatch from the Tennessee Valley Overlook **#18**).
 
 4.  **Ponds and Tennessee Beach**:
 
     -   Both teams document observations at Lower Tennessee Valley (including the Pond) **#17** (separate lists until teams reunite).
-
     -   Tennessee Beach is surveyed from the shore, with the early team climbing to the Tennessee Valley Overlook **#18 for** a seawatch from above the beach.
 
 ### Notes for Data Collection
 
 -   Use unique eBird checklists for each trail, area, or significant habitat change (see the assigned maps below for each team).
-
 -   Record effort details such as miles, hours, and environmental conditions to align with eBird data.
-
 -   High counts (MAX) are used for overlapping stationary birds, while moving birds are flagged in comments for behavior and movement patterns.
-
 -   Remember: Independent counts from different areas are **SUM**med!
 
 ### Access trip lists for previous eBird CBC counts at Tennessee Valley
