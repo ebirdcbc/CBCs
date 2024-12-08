@@ -42,6 +42,8 @@ eBirdCBC uses [eBird](https://ebird.org/home) and [eBird tracks](https://ebird.o
 
 ![Northern Harrier flying past at Tennessee Valley CBC, © D. Kapan 2017](images/_esc6382.jpeg)
 
+![Northern Harrier flying past at Tennessee Valley CBC, © D. Kapan 2017](images/_esc6382.jpeg)
+
 With raptors and other large mobile birds it is crucial to track for accurate counts and movement patterns:
 
 -   Record species, time, location, flight direction, age, sex, plumage, behavior, and other details.
