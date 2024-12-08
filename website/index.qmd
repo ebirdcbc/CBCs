@@ -6,7 +6,7 @@ format:
         anchor-sections: false
 ---
 
-[![Barn Owl found roosting near Abbotts Lagoon, © D. Kapan 2017](images/esc6264.jpeg){width="100"}](images/esc6264.jpeg)
+![Barn Owl found roosting near Abbotts Lagoon, © D. Kapan 2017](images/esc6264.jpeg){width="100"}(images/esc6264.jpeg)
 
 # eBirdCBC Project
 
