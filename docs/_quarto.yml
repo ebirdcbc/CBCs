@@ -1,8 +1,9 @@
 project:
   type: website
   output-dir: ../docs
-  resources: images/
-    - input/*
+  resources:
+  - images/
+  - input/
   preview: 
     port: 4321
     browser: true
