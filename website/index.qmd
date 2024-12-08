@@ -6,7 +6,7 @@ format:
         anchor-sections: false
 ---
 
-![Barn Owl found roosting near Abbotts Lagoon, © D. Kapan 2017](images/esc6264.jpeg){width="100"}
+![Barn Owl found roosting near Abbotts Lagoon during the 2017 Point Reyes CBC, © D. Kapan 2017](images/esc6264.jpeg){width="100"}
 
 # eBirdCBC Project
 
