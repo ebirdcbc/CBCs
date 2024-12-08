@@ -64,7 +64,7 @@ The Tennessee Valley subarea is part of the Southern Marin Christmas Bird Count 
 
 #### [**2018 Tennessee Valley area of the S. Marin CBC Trip Report**](https://ebird.org/tripreport/25402) (29 Dec 2018)
 
-(note the trip-lists are raw input for eBirdCBC so they haven't been subject to the “Max-Sum”™ algorithm)!
+(note the trip-lists are raw input for eBirdCBC so they haven't been subject to the “Max-Sum” algorithm)!
 
 ### Under construction: live example with final tally
 

@@ -58,9 +58,9 @@ These are paraphrased from the instructions [here](https://github.com/ddkapan/eB
 -   If you find errors in the lists or need detailed memos for the trip or species, ask your eBirders to fix those lists and reshare them with your eBird area persona.
 -   Then use **Species Mode** in the eBirdCBC tool to review counts species-by-species.
 -   Identify overlapping counts visually using tracks and assign group numbers.
--   Apply the **MAX-SUM algorithm**:
-    -   Take the maximum count for overlapping stationary birds.
-    -   Sum non-overlapping counts.
+-   The **MAX-SUM algorithm**:
+    -   Will automatically take the maximum count for overlapping stationary birds.
+    -   And Sum non-overlapping counts.
 -   Exclude erroneous or unwanted data using the "Delete Group" feature.
 -   Save (frequently) the final results.
 

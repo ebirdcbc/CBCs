@@ -5,9 +5,15 @@
 }
 
 .navbar {
-    background-color: #243447;
-    color: #ffffff;
-    height: 100px;
+    background-color: #243447; /* Dark blue-gray background */
+    color: #ffffff;           /* White text for contrast */
+    height: 100px;            /* Adjust height for better spacing */
+    background-image: url('images/IMG_6067.jpeg'); /* Add your background photo */
+    background-size: cover;   /* Make the image cover the navbar */
+    background-position: center; /* Center the background image */
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* Optional: Add a shadow for better text visibility */
+    margin-bottom: 0;
+
 }
 
 .quarto-content {
@@ -27,14 +33,14 @@
 }
 
 .navbar-brand {
-    background-image: url(images/wildliferesilience.png);
-    background-size: 130px, 150px;
+    background-image: url(images/_ESC6101.jpeg);
+    background-size: 150px, 150px;
     background-position: left;
     background-repeat: no-repeat;
     height: 100px;
-    width: 150px;
-    margin-left: 20px;
-    margin-right: 0px;
+    width: 120px;
+    margin-left: 5px;
+    margin-right:5px;
   }
 
 
@@ -50,4 +56,26 @@
 
 div.shinylive-wrapper {
     border: none;
+}
+
+/* Wide Image Styles */
+
+.wide-image {
+    text-align: center; /* Center the image and caption */
+    margin: 20px 0;     /* Add vertical spacing */
+}
+
+.wide-image img {
+    width: 100%;            /* Full width across the page */
+    height: auto;           /* Maintain aspect ratio */
+    margin-top: 0px;       /* Add spacing below banner */
+    margin: 0 auto;
+    display: block;         /* Center image block */
+}
+
+.image-caption {
+    font-size: 0.9em;    /* Smaller text */
+    color: gray;         /* Gray text */
+    margin-top: 8px;     /* Add space between the image and caption */
+    text-align: center;  /* Center the caption */
 }

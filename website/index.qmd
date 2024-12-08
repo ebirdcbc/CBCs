@@ -5,10 +5,14 @@ format:
         css: index.css
         anchor-sections: false
 ---
+::: {.wide-image}
+![](images/_ESC6264.jpeg){width="100"}
+<div class="image-caption">Barn Owl found roosting near Abbotts Lagoon, &copy; D. Kapan 2017</div>
+:::
 
 # eBirdCBC Project
 
-Welcome to the eBirdCBC project, a hybrid approach to modernizing the [Christmas Bird Count](https://www.audubon.org/community-science/christmas-bird-count) (CBC) using [eBird](https://ebird.org/home) data and tools. Explore how we blend traditional methods with digital tools to enhance accuracy, repeatability, increase CBC participation, and the long-term value for bird conservation efforts. Note: this project builds upon eBird best practices for [ebirding on christmas bird counts](https://ebird.org/news/ebirding-on-christmas-bird-counts) so be sure to review those.
+Welcome to the eBirdCBC project, a hybrid approach to modernizing the [Christmas Bird Count](https://www.audubon.org/community-science/christmas-bird-count) (CBC) using [eBird](https://ebird.org/home) data and tools. Explore how we blend traditional methods with digital tools to enhance accuracy, repeatability, increase CBC participation, and the long-term value for bird conservation efforts. Note: this project builds upon eBird best practices for [ebirding on Christmas Bird Counts](https://ebird.org/news/ebirding-on-christmas-bird-counts) so be sure to review those.
 
 ### Why Use eBird for Christmas Bird Counts?
 
@@ -46,7 +50,11 @@ This hybrid approach ensures the long-term success of the CBC as the world’s l
 
 ### Why eBirdCBC Matters
 
-CBCs are one of the longest-running community science projects, offering valuable insights into bird populations over time. By modernizing this tradition with eBirdCBC, we can: - Foster greater interest and participation. - Ensure data accuracy and integrity. - Provide tools for better understanding environmental changes.
+CBCs are one of the longest-running community science projects, offering valuable insights into bird populations over time. By modernizing this tradition with eBirdCBC, we can:
+
+-   Foster greater interest and participation.
+-   Ensure data accuracy and integrity.
+-   Provide tools for better understanding environmental changes.
 
 This project bridges the gap between tradition and innovation, making CBCs more accessible and impactful for generations to come.
 

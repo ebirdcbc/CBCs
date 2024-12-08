@@ -11,7 +11,7 @@ project:
 filters: []
 
 website:
-  title: "eBirdCBC"
+  title: " eBirdCBC"
   reader-mode: true
   page-navigation: true
   
@@ -67,6 +67,7 @@ format:
     css: styles.css
     toc: true
     page-layout: full
+    spacing: false
     grid: 
       body-width: 1500px
       gutter-width: 4em
