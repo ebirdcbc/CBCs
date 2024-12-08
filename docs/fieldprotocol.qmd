@@ -42,7 +42,7 @@ eBirdCBC uses [eBird](https://ebird.org/home) and [eBird tracks](https://ebird.o
 
 ![Northern Harrier flying past at Tennessee Valley CBC, © D. Kapan 2017](images/_esc6382.jpeg)
 
-::: wide-image
+::: {#northernharrier .wide-image}
 ![Northern Harrier flying past at Tennessee Valley CBC, © D. Kapan 2017](images/_esc6382.jpeg){width="100"}
 :::
 

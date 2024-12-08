@@ -7,7 +7,7 @@ format:
 ---
 
 ::: wide-image
-![](images/_esc6264.jpeg){width="100"}
+![](images/esc6264.jpeg){width="100"}
 
 ::: image-caption
 Barn Owl found roosting near Abbotts Lagoon, © D. Kapan 2017
