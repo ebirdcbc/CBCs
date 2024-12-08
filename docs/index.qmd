@@ -6,7 +6,7 @@ format:
         anchor-sections: false
 ---
 ::: {.wide-image}
-![](images/_ESC6264.jpeg){width="100"}
+![](images/_esc6264.jpeg){width="100"}
 <div class="image-caption">Barn Owl found roosting near Abbotts Lagoon, &copy; D. Kapan 2017</div>
 :::
 
