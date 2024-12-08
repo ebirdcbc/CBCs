@@ -4,6 +4,10 @@
     color-scheme: dark;
 }
 
+#toc-title {
+    display: none; /* Hide the title completely */
+}
+
 .navbar {
     background-color: #243447; /* Dark blue-gray background */
     color: #ffffff;           /* White text for contrast */
@@ -13,7 +17,6 @@
     background-position: center; /* Center the background image */
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* Optional: Add a shadow for better text visibility */
     margin-bottom: 0;
-
 }
 
 .quarto-content {
@@ -41,6 +44,7 @@
     width: 120px;
     margin-left: 5px;
     margin-right:5px;
+    margin-bottom: 0;
   }
 
 
@@ -79,3 +83,4 @@ div.shinylive-wrapper {
     margin-top: 8px;     /* Add space between the image and caption */
     text-align: center;  /* Center the caption */
 }
+
