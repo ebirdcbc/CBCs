@@ -40,9 +40,9 @@ eBirdCBC uses [eBird](https://ebird.org/home) and [eBird tracks](https://ebird.o
 
 ![Example of effort memo for a given list. Note everything needed to figure out the who, the where, the when, the weather, the raptors and large birds as well as the route. In this case the user employed [4-letter bird codes](https://www.birdpop.org/docs/misc/Alpha_codes_eng.pdf) to indicate the raptors: AMKE = American Kestrel, NOHA = Northern Harrier.](images/effortmemo.jpg)
 
-[!Northern Harrier flying past at Tennessee Valley CBC, © D. Kapan 2017](images/_esc6382.jpeg)
+[![Northern Harrier flying past at Tennessee Valley CBC, © D. Kapan 2017](images/esc6382.jpeg)](images/esc6382.jpeg)
 
-![Northern Harrier flying past at Tennessee Valley CBC, © D. Kapan 2017](images/_esc6382.jpeg)
+[![Northern Harrier flying past at Tennessee Valley CBC, © D. Kapan 2017](images/esc6382.jpeg)](images/esc6382.jpeg)
 
 With raptors and other large mobile birds it is crucial to track for accurate counts and movement patterns:
 
@@ -54,7 +54,7 @@ With raptors and other large mobile birds it is crucial to track for accurate co
 ### Example Table for Raptors and Large Birds
 
 |                  |                    |      |                  |       |      |         |                                               |
-|------------------|--------------------|------|------------------|-------|------|---------|-----------------------------------------------|
+|---------|---------|---------|---------|---------|---------|---------|---------|
 | Species          | Location           | Time | Flight direction | Age   | Sex  | Plumage | Notes                                         |
 | Golden Eagle     | M-ranch entry road | 0915 | NE               | Adult | NA   | NA      | This bird was flying high and fast.           |
 | Northern Harrier | M-ranch entry road | 0920 | N                | Adult | Male | NA      | Harrying low flying into the Yellow territory |
