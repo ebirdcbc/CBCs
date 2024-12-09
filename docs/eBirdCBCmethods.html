@@ -161,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#using-the-ebirdcbc-method" id="toc-using-the-ebirdcbc-method" class="nav-link active" data-scroll-target="#using-the-ebirdcbc-method">Using the eBirdCBC method</a>
   <ul class="collapse">
   <li><a href="#max-sum-algorithm" id="toc-max-sum-algorithm" class="nav-link" data-scroll-target="#max-sum-algorithm"><strong>MAX-SUM algorithm</strong></a></li>
-  <li><a href="#count-area-leaders-how-to-prepare-for-an-ebird-powered-count-area-before-going-to-the-field" id="toc-count-area-leaders-how-to-prepare-for-an-ebird-powered-count-area-before-going-to-the-field" class="nav-link" data-scroll-target="#count-area-leaders-how-to-prepare-for-an-ebird-powered-count-area-before-going-to-the-field"><strong>Count area leaders: how to prepare for an eBird-Powered Count Area before going to the field</strong></a></li>
+  <li><a href="#area-leader-instructions" id="toc-area-leader-instructions" class="nav-link" data-scroll-target="#area-leader-instructions"><strong>Area leader instructions:</strong></a></li>
   <li><a href="#using-the-ebird-cbc-program-quick-start" id="toc-using-the-ebird-cbc-program-quick-start" class="nav-link" data-scroll-target="#using-the-ebird-cbc-program-quick-start">Using the eBird CBC program: quick start</a></li>
   </ul></li>
   </ul>
@@ -189,24 +189,24 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="using-the-ebirdcbc-method" class="level1">
 <h1>Using the eBirdCBC method</h1>
-<p>eBirdCBC is a set of field methods (using <a href="https://ebird.org/home">eBird</a>) and a web-based program (<a href="https://github.com/ddkapan/eBirdCBC/blob/main/README.md">eBirdCBC</a>) designed to modernize and streamline the process of compiling data for <a href="https://www.audubon.org/community-science/christmas-bird-count">Christmas Bird Counts</a> (CBCs). Leveraging <a href="https://ebird.org/news/ebird-ios-automatic-tracks-available/">eBird</a><a href="https://ebird.org/about/ebird-mobile/">mobile’s</a> data collection and <a href="https://ebird.org/news/ebird-ios-automatic-tracks-available/">tracking</a> capabilities, eBirdCBC integrates these tools with an innovative <strong>MAX-SUM algorithm</strong> to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs. This page instructs <strong>area leaders</strong> on the details, but is useful for counters as well as compilers to understand how to use the eBirdCBC method before the count, <a href="fieldprotocol.html">in the field</a>, and after the count.</p>
+<p>eBirdCBC is a browser-based program and a set of field methods to modernize and streamline the process of compiling <a href="https://ebird.org/home">eBird</a> data for <a href="https://www.audubon.org/community-science/christmas-bird-count">Christmas Bird Counts</a> (CBCs). Leveraging <a href="https://ebird.org/news/ebird-ios-automatic-tracks-available/">eBird</a><a href="https://ebird.org/about/ebird-mobile/">-mobile’s</a> data collection and <a href="https://ebird.org/news/ebird-ios-automatic-tracks-available/">tracking</a> capabilities, eBirdCBC integrates these tools with an innovative <strong>MAX-SUM algorithm</strong> to simplify workflows, eliminate double-counting, and enhance the reproducibility of CBCs. This page instructs <strong>area leaders</strong> on the details, but is useful for counters as well as CBC compilers to understand how to use the eBirdCBC method <a href="#before-the-count">Before the count</a>, <a href="fieldprotocol.html">in the field</a>, and <a href="usingtheprogram.html">after the count</a>.</p>
 <section id="max-sum-algorithm" class="level3">
 <h3 data-anchor-id="max-sum-algorithm"><strong>MAX-SUM algorithm</strong></h3>
-<p>The MAX-SUM algorithm is a way to make sure we count birds accurately during a Christmas Bird Count, especially when multiple teams will traverse the same location and might see the same birds. Here’s how it works in simple terms:</p>
+<p>The MAX-SUM algorithm ensures accurate bird counts during Christmas Bird Counts (CBCs), especially when multiple teams traverse the same areas and might see the same birds. Here’s how it works:</p>
 <ol type="1">
-<li><strong>When teams cross the same area and <em>Birds Stay Still</em></strong>: If two teams report the same stationary birds (like a sparrows from the same flock, or herons standing in the same pond), we take the highest number of that species reported by any team. To do this we apply the function <strong>MAX</strong> to the birds in overlapping lists. This avoids double-counting but still gives us the best estimate.</li>
-<li><strong>When teams are in separate areas but the <em>Species Moves Around</em></strong>: For birds that are flying or moving between areas (like swans or hawks), we still take the <strong>MAX for that species</strong> from the numbers reported by different teams if we can determine from the <em>details in the observations</em> (see field protocol) that they are the same birds.</li>
-<li><strong>When teams are in separate areas and the <em>Species are Not Moving Around</em></strong>: For birds that are stationary we combine lists from different areas using the <strong>SUM function for that species</strong> from the numbers reported by different teams. This is usually true for all small bird species that do not move between lists for different subareas. A few exceptions might be high flyover flocks of finch family birds or Cedar Waxwings.</li>
+<li><p><strong>Birds Stay Still in Overlapping Areas</strong>: When stationary birds (like sparrows or herons) are reported by multiple teams in the same area, we take the highest count (MAX) from any team. This avoids double-counting while providing the best estimate.</p></li>
+<li><p><strong>Birds Move Between Areas</strong>: For mobile species (like swans or hawks) observed by different teams, we apply MAX if it’s clear the same birds are being reported (based on observation details in the field protocol).</p></li>
+<li><p><strong>Stationary Birds in Separate Areas</strong>: For birds that remain stationary in different areas, we sum (SUM) the counts from each team’s list. This is common for small, non-mobile species, with exceptions like high flyover flocks.</p></li>
 </ol>
 <p>In short: The eBirdCBC program <strong>takes the MAX for overlapping counts</strong> and <strong>SUM the counts for non-overlapping areas</strong>. This keeps the bird count as accurate as possible without overestimating or underestimating the numbers.</p>
 </section>
-<section id="count-area-leaders-how-to-prepare-for-an-ebird-powered-count-area-before-going-to-the-field" class="level3">
-<h3 data-anchor-id="count-area-leaders-how-to-prepare-for-an-ebird-powered-count-area-before-going-to-the-field"><strong>Count area leaders: how to prepare for an eBird-Powered Count Area before going to the field</strong></h3>
-<p>Below are the methods for area leaders including what to do before the count, how to plan your team assignments and instruct your team-members, and what to do after the count. All participants should read these over to understand what your area leader going to do with the data you collect using the participant team’s <a href="fieldprotocol.html">field protocol</a>.</p>
-<section id="pre-count-preparation" class="level4">
-<h4 data-anchor-id="pre-count-preparation">Pre-count preparation</h4>
+<section id="area-leader-instructions" class="level3">
+<h3 data-anchor-id="area-leader-instructions"><strong>Area leader instructions:</strong></h3>
+<p>Below are methods for area leaders, covering preparation, team assignment planning, instructions for team members, and post-count tasks. Participants can also benefit from understanding how eBird data collected using the field protocol will be utilized.</p>
+<section id="before-the-count" class="level4">
+<h4 data-anchor-id="before-the-count">Before the count</h4>
 <ul>
-<li>Area leaders need a <a href="https://support.ebird.org/en/support/solutions/articles/48001158707-get-started-with-ebird#Create-a-free-account">new eBird account</a> with a new <strong>eBird persona</strong> for the CBC area to collect and centralize data. This is a new eBird login from a new eBird email. For instance create a login e.g.&nbsp;“myebirdarea” with a new email address e.g.&nbsp;“myebirdarea@gmail.com.” This eBird persona ‘rides along’ with each group and serves to aggregate all the eBird data for the count.</li>
+<li>Area leaders should create a <a href="https://support.ebird.org/en/support/solutions/articles/48001158707-get-started-with-ebird#Create-a-free-account">new eBird account</a> (persona) for the CBC area, using a unique login (e.g., “myebirdarea”) and email (e.g., “myebirdarea@gmail.com”). This account aggregates all eBird data for the count by ‘riding along’ with each group.</li>
 <li>Assign area participants in small groups non-overlapping routes (see <a href="fieldprotocol.html">Field protocol</a>) to use either eBird or paper-based methods that get transcribed to eBird after the count, allowing flexibility.</li>
 <li>Each team of one or more people birding independently use eBird to track their observations (see below and <a href="fieldprotocol.html">Field protocol</a>).</li>
 </ul>
@@ -221,6 +221,10 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Build team assignments based on these color-coded polygons.</p></li>
 </ul>
 </section>
+</section>
+<section id="in-the-field-see-the-field-protocol" class="level4">
+<h4 data-anchor-id="in-the-field-see-the-field-protocol">In the field (see the <a href="fieldprotocol.html">Field protocol</a>)</h4>
+<p>To employ the eBirdCBC technique, we must follow our <a href="fieldprotocol.html">field protocol</a>, otherwise we cannot use the MAX-SUM approach.</p>
 </section>
 <section id="after-the-count" class="level4">
 <h4 data-anchor-id="after-the-count">After the count</h4>
